@@ -93,10 +93,33 @@ def writeJson(data,filename):
         except: # for original json file
             f.write(json.dumps(data, ensure_ascii = False, sort_keys=True,indent = 4))
 
+
+def read_json():
+    text_str = {}
+    anime_urls = []
+    titles = []
+    try:
+        with open('sn_list.json', "r", encoding='utf8') as f:
+            text_str = json.loads(f.read())
+            for i in text_str.keys():
+                if (text_str[i]['Downloads'] == 'Y' and text_str[i]['isDownloads'] == 'NaN') :
+                    url = 'https://anime1.me/?cat='+str(text_str[i]['ID'])
+                    res = requests.get(url)
+                    anime_urls.append(res.url)
+                    titles.append(text_str[i]['title'])
+    except:
+        print("sn_list is empty. Create a new file now.\n")
+    return text_str,anime_urls,titles
+
+
+
 if __name__ == '__main__':     
     # define global
     url = 'https://d1zquzjgwo9yb.cloudfront.net/'
     
+    # read sn_list to get the anime url and title.
+    text_str , anime_urls , titles= read_json()
+
     # get anime data
     r = requests.get(url, headers = headers)
     res_text = json.loads(r.text)
@@ -107,5 +130,14 @@ if __name__ == '__main__':
     # write original anime data
     writeJson(original_AniData,'Anime_data.json')
 
+
+    # process the data with the sn_list.json
+    for df_title in df_AniData.to_dict():
+        try:
+            temp = text_str[df_title]
+        except:
+            print(df_title)
+            text_str[df_title] = df_AniData.to_dict()[df_title]
+
     # write sn_list.json 
-    writeJson(df_AniData,'sn_list.json')
+    writeJson(text_str,'sn_list.json')
