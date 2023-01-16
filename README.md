@@ -45,7 +45,7 @@ payload = {
 - run `AniCrawl.py`
 - if want to download anime, modify `sn_list.json`
     - find the target anime and modify it's `Downloads : N` to  `Downloads : Y`
-- Please use `AniUplus.py` in [a607ernie/AniUplus](https://github.com/a607ernie/AniUplus) to download  
+- Please use `anime1.py` in [a607ernie/AniCat-v2](https://github.com/a607ernie/AniCat-v2) to download  
 
 e.g.
 
@@ -63,7 +63,7 @@ e.g.
     },
 ```
 
-`"Downloads": "Ｙ"` 執行`AniUplus.py`後可下載
+`"Downloads": "Ｙ"` 執行`anime1.py`後可下載
 ```json
 "鬼滅之刃 遊郭篇": {
         "Downloads": "Ｙ",
@@ -96,7 +96,7 @@ python AniCrawl.py
 - Anime_data.json
     - anime infomation for the website.
 - sn_list.json
-    - a config file for `AniUplus`
+    - a config file for `anime1.py`
 
 
 # 免責聲明
