@@ -30,7 +30,7 @@ jobs:
       continue-on-error: true
       run: |
         git config --global user.email ${{ secrets.CI_COMMIT_EMAIL }}
-        git config --global user.name ${{ secrets.CI_COMMIT_AUTHOR }}
+        git config --global user.name "a607ernie"
         git add .
         git commit -m "Log: Update anime information"
     - name: Push change
