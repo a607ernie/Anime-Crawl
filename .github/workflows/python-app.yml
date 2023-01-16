@@ -1,0 +1,40 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: Python application
+
+on:
+  schedule:
+    - cron:  '0 */2 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run python file
+      run:  python3 AniCrawl.py
+    - name: Commit change
+      continue-on-error: true
+      run: |
+        git config --global user.email ${{ secrets.CI_COMMIT_EMAIL }}
+        git config --global user.name ${{ secrets.CI_COMMIT_AUTHOR }}
+        git add .
+        git commit -m "Log: Update anime information"
+    - name: Push change
+      if: success()
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GIT_TOKEN }}
