@@ -133,6 +133,8 @@ if __name__ == '__main__':
 
     # process the data with the sn_list.json
     for df_title in df_AniData.to_dict():
+        # df_title is find in website
+        # check the repeat title in sn_list
         try:
             temp = text_str[df_title]
         except:
