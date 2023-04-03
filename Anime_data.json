@@ -1297,7 +1297,7 @@
     },
     "REVENGER": {
         "ID": 1196,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "冬",
         "subtitle group": "動漫國",
         "title": "REVENGER",
@@ -3279,6 +3279,14 @@
         "title": "在地下城尋求邂逅是否搞錯了什麼Ⅲ (第三季)",
         "year": "2020"
     },
+    "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～": {
+        "ID": 1222,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～",
+        "year": "2023"
+    },
     "在魔王城說晚安": {
         "ID": 774,
         "episode": "1-12",
@@ -3294,6 +3302,14 @@
         "subtitle group": "豌豆",
         "title": "地獄少女 宵伽",
         "year": "2017"
+    },
+    "地獄樂": {
+        "ID": 1224,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "豌豆&風之聖殿",
+        "title": "地獄樂",
+        "year": "2023"
     },
     "地縛少年花子君": {
         "ID": 672,
@@ -3494,6 +3510,14 @@
         "subtitle group": "DHR百合組",
         "title": "天使降臨到我身邊！",
         "year": "2019"
+    },
+    "天國大魔境": {
+        "ID": 1225,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "悠哈璃羽",
+        "title": "天國大魔境",
+        "year": "2023"
     },
     "天地創造設計部": {
         "ID": 805,
@@ -4143,6 +4167,14 @@
         "title": "帶著智慧型手機闖蕩異世界。",
         "year": "2017"
     },
+    "帶著智慧型手機闖蕩異世界。 第二季": {
+        "ID": 1221,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "帶著智慧型手機闖蕩異世界。 第二季",
+        "year": "2023"
+    },
     "幕末替身傳說": {
         "ID": 1088,
         "episode": "1-12",
@@ -4715,7 +4747,7 @@
         "ID": 1212,
         "episode": "連載中(01)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "我內心的糟糕念頭",
         "year": "2023"
     },
@@ -5703,6 +5735,14 @@
         "title": "機動戰士鋼彈 水星的魔女",
         "year": "2022"
     },
+    "機戰少女 Alice Expansion": {
+        "ID": 1220,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "機戰少女 Alice Expansion",
+        "year": "2023"
+    },
     "櫻花忍法帖": {
         "ID": 284,
         "episode": "1-24",
@@ -6214,6 +6254,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "熊熊勇闖異世界",
         "year": "2020"
+    },
+    "熊熊勇闖異世界 PUNCH！(第二季)": {
+        "ID": 1219,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "熊熊勇闖異世界 PUNCH！(第二季)",
+        "year": "2023"
     },
     "燒窯的話也要馬克杯": {
         "ID": 860,
@@ -7127,6 +7175,14 @@
         "title": "組長女兒與保姆",
         "year": "2022"
     },
+    "絆之Allele": {
+        "ID": 1223,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "絆之Allele",
+        "year": "2023"
+    },
     "結城友奈是勇者 勇者之章": {
         "ID": 246,
         "episode": "1-6",
@@ -8017,7 +8073,7 @@
     },
     "輝夜姬想讓人告白 永不結束的初吻": {
         "ID": 1213,
-        "episode": "連載中(02)",
+        "episode": "1-4",
         "season": "秋",
         "subtitle group": "",
         "title": "輝夜姬想讓人告白 永不結束的初吻",
