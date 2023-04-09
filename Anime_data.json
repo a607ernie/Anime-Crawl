@@ -4849,7 +4849,7 @@
     },
     "我家的英雄": {
         "ID": 1217,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "我家的英雄",
@@ -5798,6 +5798,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "機動戰士鋼彈 水星的魔女",
         "year": "2022"
+    },
+    "機動戰士鋼彈 水星的魔女 Season 2": {
+        "ID": 1242,
+        "episode": "連載中(02)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "機動戰士鋼彈 水星的魔女 Season 2",
+        "year": "2023"
     },
     "機戰少女 Alice Expansion": {
         "ID": 1220,
@@ -8249,7 +8257,7 @@
     },
     "轉生貴族的異世界冒險錄～不知自重的眾神使徒～": {
         "ID": 1216,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "轉生貴族的異世界冒險錄～不知自重的眾神使徒～",
