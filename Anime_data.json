@@ -513,7 +513,7 @@
     },
     "Dr.STONE 新石紀 NEW WORLD": {
         "ID": 1232,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "豌豆&風之聖殿",
         "title": "Dr.STONE 新石紀 NEW WORLD",
@@ -1217,7 +1217,7 @@
     },
     "Opus.COLORs 色彩高校星": {
         "ID": 1233,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "Opus.COLORs 色彩高校星",
@@ -2257,7 +2257,7 @@
     },
     "偶像大師 灰姑娘女孩 U149": {
         "ID": 1228,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "偶像大師 灰姑娘女孩 U149",
@@ -2454,6 +2454,14 @@
         "subtitle group": "極影",
         "title": "八男？別鬧了！",
         "year": "2020"
+    },
+    "六道的惡女們": {
+        "ID": 1257,
+        "episode": "連載中(02)",
+        "season": "春",
+        "subtitle group": "Amor",
+        "title": "六道的惡女們",
+        "year": "2023"
     },
     "再得一勝！": {
         "ID": 1189,
@@ -2729,7 +2737,7 @@
     },
     "勇者死了！": {
         "ID": 1231,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "勇者死了！",
@@ -3297,7 +3305,7 @@
     },
     "國王排名 勇氣的寶箱": {
         "ID": 1251,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "國王排名 勇氣的寶箱",
@@ -5305,7 +5313,7 @@
     },
     "放學後失眠的你": {
         "ID": 1249,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "漫貓",
         "title": "放學後失眠的你",
@@ -6419,7 +6427,7 @@
         "ID": 1219,
         "episode": "連載中(03)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "桜都",
         "title": "熊熊勇闖異世界 PUNCH！(第二季)",
         "year": "2023"
     },
@@ -6841,7 +6849,7 @@
     },
     "百合是我的工作！": {
         "ID": 1229,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "百合是我的工作！",
@@ -9329,7 +9337,7 @@
     },
     "魔法使的新娘 SEASON2(第二季)": {
         "ID": 1230,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "魔法使的新娘 SEASON2(第二季)",
