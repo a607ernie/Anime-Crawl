@@ -2457,7 +2457,7 @@
     },
     "六道的惡女們": {
         "ID": 1257,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "Amor",
         "title": "六道的惡女們",
@@ -4145,7 +4145,7 @@
     },
     "小鳥之翼 第二季": {
         "ID": 1235,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "小鳥之翼 第二季",
@@ -7465,7 +7465,7 @@
     },
     "總之就是很可愛 第二季": {
         "ID": 1238,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "總之就是很可愛 第二季",
@@ -7649,7 +7649,7 @@
     },
     "肌肉魔法使-MASHLE-": {
         "ID": 1236,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "肌肉魔法使-MASHLE-",
@@ -8669,6 +8669,14 @@
         "season": "秋",
         "subtitle group": "幻櫻",
         "title": "鏈鋸人",
+        "year": "2022"
+    },
+    "鏡之孤城": {
+        "ID": 1259,
+        "episode": "劇場版",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "鏡之孤城",
         "year": "2022"
     },
     "鐵路浪漫譚": {
