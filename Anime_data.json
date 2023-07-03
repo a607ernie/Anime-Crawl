@@ -1055,6 +1055,14 @@
         "title": "LoveLive! Sunshine!! 第二季",
         "year": "2017"
     },
+    "Lv1魔王與獨居廢勇者": {
+        "ID": 1274,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "Lv1魔王與獨居廢勇者",
+        "year": "2023"
+    },
     "Lycoris Recoil 莉可麗絲": {
         "ID": 1066,
         "episode": "1-13",
@@ -5385,7 +5393,7 @@
     },
     "放學後失眠的你": {
         "ID": 1249,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "春",
         "subtitle group": "愛戀",
         "title": "放學後失眠的你",
@@ -5406,6 +5414,14 @@
         "subtitle group": "動漫國",
         "title": "政宗君的復仇",
         "year": "2017"
+    },
+    "政宗君的復仇R (第二季)": {
+        "ID": 1273,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "政宗君的復仇R (第二季)",
+        "year": "2023"
     },
     "敦君與女朋友": {
         "ID": 318,
@@ -6239,6 +6255,14 @@
         "title": "溫泉屋小女將 劇場版",
         "year": "2018"
     },
+    "滿懷美夢的少年是現實主義者": {
+        "ID": 1276,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "滿懷美夢的少年是現實主義者",
+        "year": "2023"
+    },
     "滿月之戰 GRANBELM": {
         "ID": 567,
         "episode": "1-13",
@@ -6561,8 +6585,8 @@
     },
     "物之古物奇譚": {
         "ID": 1193,
-        "episode": "1-12",
-        "season": "冬",
+        "episode": "連載中(13)",
+        "season": "冬/夏",
         "subtitle group": "-",
         "title": "物之古物奇譚",
         "year": "2023"
@@ -6758,6 +6782,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "甜心戰士 Universe",
         "year": "2018"
+    },
+    "甜點轉生": {
+        "ID": 1275,
+        "episode": "連載中(02)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "甜點轉生",
+        "year": "2023"
     },
     "田中君總是如此慵懶": {
         "ID": 139,
