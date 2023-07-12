@@ -263,14 +263,6 @@
         "title": "BLACKFOX 黑狐",
         "year": "2019"
     },
-    "BLEACH 千年血戰篇-訣別譚-": {
-        "ID": 1285,
-        "episode": "連載中(01)",
-        "season": "夏",
-        "subtitle group": "豌豆&風之聖殿",
-        "title": "BLEACH 千年血戰篇-訣別譚-",
-        "year": "2023"
-    },
     "BLEACH 死神 千年血戰篇": {
         "ID": 1138,
         "episode": "1-13",
@@ -278,6 +270,14 @@
         "subtitle group": "豌豆&風之聖殿",
         "title": "BLEACH 死神 千年血戰篇",
         "year": "2022"
+    },
+    "BLEACH 死神 千年血戰篇-訣別譚-": {
+        "ID": 1285,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "豌豆&風之聖殿",
+        "title": "BLEACH 死神 千年血戰篇-訣別譚-",
+        "year": "2023"
     },
     "BLUE LOCK 藍色監獄": {
         "ID": 1135,
@@ -355,7 +355,7 @@
         "ID": 1265,
         "episode": "連載中(04)",
         "season": "夏",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "BanG Dream! It’s MyGO!!!!!",
         "year": "2023"
     },
@@ -2582,6 +2582,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "出租女友",
         "year": "2020"
+    },
+    "出租女友 第三季": {
+        "ID": 1295,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "出租女友 第三季",
+        "year": "2023"
     },
     "出租女友 第二季": {
         "ID": 1062,
@@ -6753,7 +6761,7 @@
     },
     "獻祭公主與獸王": {
         "ID": 1261,
-        "episode": "連載中(10)",
+        "episode": "連載中(12)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "獻祭公主與獸王",
@@ -7030,6 +7038,14 @@
         "subtitle group": "桜都",
         "title": "白沙的Aquatope",
         "year": "2021"
+    },
+    "白聖女與黑牧師": {
+        "ID": 1295,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "白聖女與黑牧師",
+        "year": "2023"
     },
     "白貓 Project ZERO CHRONICLE": {
         "ID": 715,
@@ -7681,7 +7697,7 @@
     },
     "總之就是很可愛 第二季": {
         "ID": 1238,
-        "episode": "1-12",
+        "episode": "連載中(13)",
         "season": "春",
         "subtitle group": "桜都",
         "title": "總之就是很可愛 第二季",
