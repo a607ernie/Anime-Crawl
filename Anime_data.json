@@ -1615,6 +1615,14 @@
         "title": "SUPER LOVERS 第二季",
         "year": "2017"
     },
+    "SYNDUALITY Noir": {
+        "ID": 1300,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "SYNDUALITY Noir",
+        "year": "2023"
+    },
     "Slow Start": {
         "ID": 265,
         "episode": "1-12",
@@ -2654,6 +2662,14 @@
         "subtitle group": "TUcaptions",
         "title": "刀劍神域 第二季 (Sword Art Online II)",
         "year": "2014"
+    },
+    "刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲": {
+        "ID": 1301,
+        "episode": "劇場版",
+        "season": "秋",
+        "subtitle group": "動漫國",
+        "title": "刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲",
+        "year": "2022"
     },
     "刀劍神域劇場版 -序列爭戰-": {
         "ID": 202,
@@ -5590,6 +5606,14 @@
         "subtitle group": "幻櫻",
         "title": "文豪野犬 (文豪Stray Dogs) 第二季",
         "year": "2016"
+    },
+    "文豪野犬 (文豪Stray Dogs) 第五季": {
+        "ID": 1299,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "幻櫻",
+        "title": "文豪野犬 (文豪Stray Dogs) 第五季",
+        "year": "2023"
     },
     "文豪野犬 (文豪Stray Dogs) 第四季": {
         "ID": 1166,
