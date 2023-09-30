@@ -153,7 +153,7 @@
     },
     "AI電子基因": {
         "ID": 1283,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "夏",
         "subtitle group": "SweetSub",
         "title": "AI電子基因",
@@ -3033,7 +3033,7 @@
     },
     "卡片戰鬥!! 先導者 will+Dress 第三季": {
         "ID": 1286,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "夏",
         "subtitle group": "",
         "title": "卡片戰鬥!! 先導者 will+Dress 第三季",
@@ -6599,6 +6599,14 @@
         "title": "為美好的世界獻上祝福！紅傳說",
         "year": "2019"
     },
+    "烈焰先鋒 救國的橘衣消防員": {
+        "ID": 1308,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "烈焰先鋒 救國的橘衣消防員",
+        "year": "2023"
+    },
     "烏菈菈迷路帖": {
         "ID": 14,
         "episode": "1-12",
@@ -6805,6 +6813,14 @@
         "season": "冬",
         "subtitle group": "-",
         "title": "狩火之王",
+        "year": "2023"
+    },
+    "狩龍人拉格納": {
+        "ID": 1309,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "狩龍人拉格納",
         "year": "2023"
     },
     "猜謎王": {
@@ -7977,7 +7993,7 @@
     },
     "能幹貓今天也憂鬱": {
         "ID": 1284,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "夏",
         "subtitle group": "",
         "title": "能幹貓今天也憂鬱",
