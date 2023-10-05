@@ -3329,7 +3329,7 @@
     },
     "咒術迴戰 第二季": {
         "ID": 1281,
-        "episode": "連載中(34)",
+        "episode": "連載中(35)",
         "season": "夏",
         "subtitle group": "",
         "title": "咒術迴戰 第二季",
@@ -4969,7 +4969,7 @@
     },
     "想當冒險者前往都市的女兒成為S級": {
         "ID": 1305,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "想當冒險者前往都市的女兒成為S級",
@@ -6150,6 +6150,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "某殭屍少女的災難",
         "year": "2018"
+    },
+    "柚木家的四兄弟。": {
+        "ID": 1334,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "柚木家的四兄弟。",
+        "year": "2023"
     },
     "格林筆記 The Animation": {
         "ID": 487,
@@ -8087,6 +8095,14 @@
         "title": "聖鬥士星矢 聖斗少女翔",
         "year": "2019"
     },
+    "聖魔大戰 BIKKURI-MEN": {
+        "ID": 1333,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "聖魔大戰 BIKKURI-MEN",
+        "year": "2023"
+    },
     "聯盟空軍航空魔法音樂隊 光輝魔女": {
         "ID": 1058,
         "episode": "1-12",
@@ -9897,8 +9913,8 @@
     },
     "魔法使的新娘 SEASON2(第二季)": {
         "ID": 1230,
-        "episode": "1-12",
-        "season": "春",
+        "episode": "連載中(13)",
+        "season": "春/秋",
         "subtitle group": "",
         "title": "魔法使的新娘 SEASON2(第二季)",
         "year": "2023"
