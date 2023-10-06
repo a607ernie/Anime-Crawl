@@ -2295,6 +2295,14 @@
         "title": "伸向天空！光之美少女",
         "year": "2023"
     },
+    "位於戀愛光譜極端的我們": {
+        "ID": 1338,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "位於戀愛光譜極端的我們",
+        "year": "2023"
+    },
     "佐佐木與宮野": {
         "ID": 991,
         "episode": "1-12+13",
@@ -3382,6 +3390,14 @@
         "subtitle group": "動漫國",
         "title": "哥布林殺手 -GOBLIN’S CROWN-",
         "year": "2020"
+    },
+    "哥布林殺手II(第二季)": {
+        "ID": 1336,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "哥布林殺手II(第二季)",
+        "year": "2023"
     },
     "啄木鳥偵探社": {
         "ID": 723,
@@ -7359,6 +7375,14 @@
         "title": "盾之勇者成名錄",
         "year": "2019"
     },
+    "盾之勇者成名錄 第三季": {
+        "ID": 1337,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "盾之勇者成名錄 第三季",
+        "year": "2023"
+    },
     "盾之勇者成名錄 第二季": {
         "ID": 1024,
         "episode": "1-13",
@@ -8417,7 +8441,7 @@
     },
     "藍色管弦樂": {
         "ID": 1254,
-        "episode": "連載中(22)",
+        "episode": "連載中(23)",
         "season": "春",
         "subtitle group": "動漫國",
         "title": "藍色管弦樂",
@@ -9923,7 +9947,7 @@
         "ID": 1230,
         "episode": "連載中(13)",
         "season": "春/秋",
-        "subtitle group": "",
+        "subtitle group": "動漫國",
         "title": "魔法使的新娘 SEASON2(第二季)",
         "year": "2023"
     },
