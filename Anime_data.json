@@ -1617,7 +1617,7 @@
     },
     "SHY 靦腆英雄": {
         "ID": 1320,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "SHY 靦腆英雄",
@@ -2470,6 +2470,14 @@
         "subtitle group": "紫音",
         "title": "偶像大師 灰姑娘女孩劇場 第二季",
         "year": "2017"
+    },
+    "偶像大師 百萬人演唱會！": {
+        "ID": 1356,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "動漫國",
+        "title": "偶像大師 百萬人演唱會！",
+        "year": "2023"
     },
     "偶像大師SideM": {
         "ID": 234,
@@ -4553,7 +4561,7 @@
     },
     "屍體如山的死亡遊戲": {
         "ID": 1246,
-        "episode": "1-12",
+        "episode": "連載中(13)",
         "season": "春",
         "subtitle group": "",
         "title": "屍體如山的死亡遊戲",
@@ -5361,7 +5369,7 @@
     },
     "我的推是壞人大小姐。": {
         "ID": 1319,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "我的推是壞人大小姐。",
