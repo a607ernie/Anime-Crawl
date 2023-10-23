@@ -1689,7 +1689,7 @@
     },
     "SYNDUALITY Noir": {
         "ID": 1300,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "夏",
         "subtitle group": "喵萌奶茶屋",
         "title": "SYNDUALITY Noir",
@@ -2481,7 +2481,7 @@
     },
     "偶像大師 百萬人演唱會！": {
         "ID": 1356,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "動漫國",
         "title": "偶像大師 百萬人演唱會！",
@@ -4585,7 +4585,7 @@
     },
     "川越男子歌唱團": {
         "ID": 1355,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "川越男子歌唱團",
@@ -5118,6 +5118,14 @@
         "subtitle group": "時雨初空",
         "title": "愛在雨過天晴時",
         "year": "2018"
+    },
+    "愛犬訊號": {
+        "ID": 1360,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "愛犬訊號",
+        "year": "2023"
     },
     "愛麗絲與藏六": {
         "ID": 115,
@@ -5857,7 +5865,7 @@
     },
     "文豪野犬 (文豪Stray Dogs) 第五季": {
         "ID": 1299,
-        "episode": "連載中(11)",
+        "episode": "1-11",
         "season": "夏",
         "subtitle group": "幻櫻",
         "title": "文豪野犬 (文豪Stray Dogs) 第五季",
@@ -5913,7 +5921,7 @@
     },
     "明日方舟 冬隱歸路(第二季)": {
         "ID": 1359,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "-",
         "title": "明日方舟 冬隱歸路(第二季)",
@@ -5969,7 +5977,7 @@
     },
     "星靈感應": {
         "ID": 1354,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "星靈感應",
@@ -7841,7 +7849,7 @@
     },
     "米奇與達利 惡童物語": {
         "ID": 1317,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "米奇與達利 惡童物語",
@@ -8593,7 +8601,7 @@
     },
     "藍色管弦樂": {
         "ID": 1254,
-        "episode": "連載中(24)",
+        "episode": "1-24",
         "season": "春",
         "subtitle group": "動漫國",
         "title": "藍色管弦樂",
@@ -9521,7 +9529,7 @@
     },
     "間諜教室 第二季": {
         "ID": 1297,
-        "episode": "連載中(23)",
+        "episode": "1-24",
         "season": "夏",
         "subtitle group": "",
         "title": "間諜教室 第二季",
@@ -10353,7 +10361,7 @@
     },
     "鴨乃橋論的禁忌推理": {
         "ID": 1318,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "鴨乃橋論的禁忌推理",
