@@ -5257,7 +5257,7 @@
     },
     "我們的雨色協議": {
         "ID": 1350,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "我們的雨色協議",
@@ -7713,7 +7713,7 @@
     },
     "神選": {
         "ID": 1332,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "神選",
@@ -8605,6 +8605,14 @@
         "season": "春",
         "subtitle group": "動漫國",
         "title": "藍色管弦樂",
+        "year": "2023"
+    },
+    "藥師少女的獨語": {
+        "ID": 1361,
+        "episode": "連載中(03)",
+        "season": "秋",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "藥師少女的獨語",
         "year": "2023"
     },
     "處刑少女的生存之道": {
