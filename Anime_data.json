@@ -241,7 +241,7 @@
     },
     "B-PROJECT ～熱烈＊Love Call～": {
         "ID": 1323,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "B-PROJECT ～熱烈＊Love Call～",
@@ -4351,9 +4351,17 @@
         "title": "實驗品家庭",
         "year": "2018"
     },
+    "寶可夢 地平線 太樂巴戈斯的光輝": {
+        "ID": 1362,
+        "episode": "連載中(26)",
+        "season": "秋",
+        "subtitle group": "楓葉",
+        "title": "寶可夢 地平線 太樂巴戈斯的光輝",
+        "year": "2023"
+    },
     "寶可夢 地平線 莉可與羅伊的啟程": {
         "ID": 1260,
-        "episode": "連載中(25)",
+        "episode": "1-25",
         "season": "春",
         "subtitle group": "楓葉",
         "title": "寶可夢 地平線 莉可與羅伊的啟程",
@@ -6297,7 +6305,7 @@
     },
     "某大叔的VRMMO活動記": {
         "ID": 1321,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "某大叔的VRMMO活動記",
@@ -8249,7 +8257,7 @@
     },
     "聖劍學院的魔劍使": {
         "ID": 1322,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "聖劍學院的魔劍使",
