@@ -2351,6 +2351,14 @@
         "title": "佐佐木與宮野",
         "year": "2022"
     },
+    "佐佐木與文鳥小嗶": {
+        "ID": 1375,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "佐佐木與文鳥小嗶",
+        "year": "2024"
+    },
     "佐賀偶像是傳奇 捲土重來(第二季)": {
         "ID": 867,
         "episode": "1-12",
@@ -5195,7 +5203,7 @@
         "ID": 1371,
         "episode": "連載中(01)",
         "season": "冬",
-        "subtitle group": "",
+        "subtitle group": "Billion Meta Lab",
         "title": "憧憬成為魔法少女",
         "year": "2024"
     },
@@ -9231,6 +9239,14 @@
         "title": "迷宮標記者(SAKUGAN)",
         "year": "2021"
     },
+    "迷宮飯": {
+        "ID": 1374,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "幻櫻",
+        "title": "迷宮飯",
+        "year": "2024"
+    },
     "逆轉世界的電池少女": {
         "ID": 966,
         "episode": "1-12",
@@ -9902,6 +9918,14 @@
         "subtitle group": "漫貓&愛戀",
         "title": "非洲的動物上班族",
         "year": "2019"
+    },
+    "非自願的不死冒險者": {
+        "ID": 1376,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "非自願的不死冒險者",
+        "year": "2024"
     },
     "靠著魔法藥水在異世界活下去！": {
         "ID": 1358,
