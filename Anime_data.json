@@ -1667,7 +1667,7 @@
         "ID": 1344,
         "episode": "1-12",
         "season": "秋",
-        "subtitle group": "",
+        "subtitle group": "桜都",
         "title": "SPY×FAMILY間諜家家酒 第二季",
         "year": "2023"
     },
@@ -6639,6 +6639,14 @@
         "title": "沒有心跳的少女 BEATLESS",
         "year": "2018"
     },
+    "治癒魔法的錯誤使用法": {
+        "ID": 1377,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "治癒魔法的錯誤使用法",
+        "year": "2024"
+    },
     "泡泡": {
         "ID": 1053,
         "episode": "劇場版",
@@ -7447,6 +7455,14 @@
         "title": "異世界魔王與召喚少女的奴隸魔術Ω(第二季)",
         "year": "2021"
     },
+    "異修羅": {
+        "ID": 1378,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "異修羅",
+        "year": "2024"
+    },
     "異獸魔都": {
         "ID": 682,
         "episode": "1-12",
@@ -7502,6 +7518,14 @@
         "subtitle group": "星空",
         "title": "白領羽球部",
         "year": "2022"
+    },
+    "百千家的妖怪王子": {
+        "ID": 1379,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "百千家的妖怪王子",
+        "year": "2024"
     },
     "百合是我的工作！": {
         "ID": 1229,
@@ -8609,7 +8633,7 @@
     },
     "葬送的芙莉蓮": {
         "ID": 1307,
-        "episode": "連載中(16)",
+        "episode": "連載中(17)",
         "season": "秋",
         "subtitle group": "",
         "title": "葬送的芙莉蓮",
