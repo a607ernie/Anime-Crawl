@@ -3859,7 +3859,7 @@
         "ID": 1398,
         "episode": "連載中(01)",
         "season": "冬",
-        "subtitle group": "極影",
+        "subtitle group": "",
         "title": "外科醫生愛麗絲",
         "year": "2024"
     },
@@ -4222,6 +4222,14 @@
         "subtitle group": "",
         "title": "她去公爵家的理由",
         "year": "2023"
+    },
+    "如果30歲還是處男，似乎就能成為魔法師": {
+        "ID": 1400,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "如果30歲還是處男，似乎就能成為魔法師",
+        "year": "2024"
     },
     "如果有妹妹就好了。": {
         "ID": 204,
@@ -5273,7 +5281,7 @@
     },
     "憧憬成為魔法少女": {
         "ID": 1371,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "Billion Meta Lab",
         "title": "憧憬成為魔法少女",
@@ -5646,6 +5654,14 @@
         "subtitle group": "極影",
         "title": "戰刻夜血",
         "year": "2017"
+    },
+    "戰國妖狐": {
+        "ID": 1399,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "戰國妖狐",
+        "year": "2024"
     },
     "戰姬絕唱 SYMPHOGEAR AXZ": {
         "ID": 164,
@@ -9574,6 +9590,14 @@
         "subtitle group": "動漫國",
         "title": "野良和皇女和野貓之心",
         "year": "2017"
+    },
+    "金屬口紅 Metallic Rouge": {
+        "ID": 1401,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "金屬口紅 Metallic Rouge",
+        "year": "2024"
     },
     "金裝的維爾梅～瀕臨留級的魔法師聯手最強災厄勇闖魔法世界～": {
         "ID": 1083,
