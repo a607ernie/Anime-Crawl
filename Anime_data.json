@@ -847,6 +847,14 @@
         "title": "GIVEN 被贈與的未來",
         "year": "2019"
     },
+    "GOOD NIGHT WORLD": {
+        "ID": 1411,
+        "episode": "1-12",
+        "season": "秋",
+        "subtitle group": "漫貓",
+        "title": "GOOD NIGHT WORLD",
+        "year": "2023"
+    },
     "Gamers 電玩咖！": {
         "ID": 195,
         "episode": "1-12",
@@ -1705,11 +1713,11 @@
     },
     "SYNDUALITY Noir": {
         "ID": 1300,
-        "episode": "1-12",
-        "season": "夏",
+        "episode": "連載中(13)",
+        "season": "夏/冬",
         "subtitle group": "喵萌奶茶屋",
         "title": "SYNDUALITY Noir",
-        "year": "2023"
+        "year": "2023/2024"
     },
     "Slow Start": {
         "ID": 265,
