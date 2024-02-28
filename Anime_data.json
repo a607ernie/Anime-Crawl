@@ -3137,7 +3137,7 @@
     },
     "北海道辣妹金古錐": {
         "ID": 1397,
-        "episode": "連載中(07)",
+        "episode": "連載中(08)",
         "season": "冬",
         "subtitle group": "喵萌奶茶屋",
         "title": "北海道辣妹金古錐",
@@ -3982,14 +3982,6 @@
         "subtitle group": "",
         "title": "大小姐與看門狗",
         "year": "2023"
-    },
-    "大欺詐師 Great Pretender": {
-        "ID": 746,
-        "episode": "1-23",
-        "season": "夏",
-        "subtitle group": "SweetSub",
-        "title": "大欺詐師 Great Pretender",
-        "year": "2020"
     },
     "大正小小先生": {
         "ID": 223,
@@ -8969,7 +8961,7 @@
     },
     "藥師少女的獨語": {
         "ID": 1361,
-        "episode": "連載中(17)",
+        "episode": "連載中(19)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "藥師少女的獨語",
@@ -9110,6 +9102,22 @@
         "subtitle group": "極影",
         "title": "記錄的地平線 圓桌崩壞(第三季)",
         "year": "2021"
+    },
+    "詐騙之王 Great Pretender(大欺詐師)": {
+        "ID": 746,
+        "episode": "1-23",
+        "season": "夏",
+        "subtitle group": "SweetSub",
+        "title": "詐騙之王 Great Pretender(大欺詐師)",
+        "year": "2020"
+    },
+    "詐騙之王 razbliuto(大欺詐師)": {
+        "ID": 1418,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "SweetSub",
+        "title": "詐騙之王 razbliuto(大欺詐師)",
+        "year": "2024"
     },
     "調教咖啡廳": {
         "ID": 228,
