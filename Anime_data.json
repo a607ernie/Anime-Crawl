@@ -5919,6 +5919,14 @@
         "title": "搖曳露營△ SEASON2(第二季)",
         "year": "2021"
     },
+    "搖曳露營△ SEASON3(第三季)": {
+        "ID": 1429,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "搖曳露營△ SEASON3(第三季)",
+        "year": "2024"
+    },
     "搖曳馬娘": {
         "ID": 1146,
         "episode": "1-24",
@@ -7414,6 +7422,14 @@
         "subtitle group": "",
         "title": "狩龍人拉格納",
         "year": "2023"
+    },
+    "狼與辛香料 MERCHANT MEETS THE WISE WOLF": {
+        "ID": 1428,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "桜都",
+        "title": "狼與辛香料 MERCHANT MEETS THE WISE WOLF",
+        "year": "2024"
     },
     "猜謎王": {
         "ID": 190,
