@@ -1863,6 +1863,14 @@
         "title": "UniteUp! 眾星齊聚",
         "year": "2023"
     },
+    "Unnamed Memory 無名記憶": {
+        "ID": 1458,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "Unnamed Memory 無名記憶",
+        "year": "2024"
+    },
     "VISUAL PRISON 視覺監獄": {
         "ID": 953,
         "episode": "1-12",
@@ -4011,7 +4019,7 @@
         "ID": 1442,
         "episode": "連載中(01)",
         "season": "夏",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "夜晚的水母不會游泳",
         "year": "2024"
     },
@@ -6025,7 +6033,7 @@
     },
     "搖曳露營△ SEASON3(第三季)": {
         "ID": 1429,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "搖曳露營△ SEASON3(第三季)",
@@ -6744,7 +6752,7 @@
         "year": "2020"
     },
     "格鬥實況": {
-        "ID": 1456,
+        "ID": 1457,
         "episode": "連載中(01)",
         "season": "夏",
         "subtitle group": "",
