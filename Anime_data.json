@@ -1905,7 +1905,7 @@
     },
     "WIND BREAKER—防風少年—": {
         "ID": 1431,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "春",
         "subtitle group": "",
         "title": "WIND BREAKER—防風少年—",
@@ -6801,7 +6801,7 @@
     },
     "格鬥實況": {
         "ID": 1457,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "",
         "title": "格鬥實況",
@@ -7902,6 +7902,14 @@
         "subtitle group": "桜都",
         "title": "異世界歸來的舅舅",
         "year": "2022"
+    },
+    "異世界自殺突擊隊": {
+        "ID": 1472,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "異世界自殺突擊隊",
+        "year": "2024"
     },
     "異世界藥局": {
         "ID": 1093,
