@@ -1793,7 +1793,7 @@
     },
     "THE NEW GATE": {
         "ID": 1462,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "",
         "title": "THE NEW GATE",
@@ -1873,7 +1873,7 @@
     },
     "Unnamed Memory 無名記憶": {
         "ID": 1458,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "Unnamed Memory 無名記憶",
@@ -5321,7 +5321,7 @@
     },
     "怪獸 8 號": {
         "ID": 1461,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "",
         "title": "怪獸 8 號",
@@ -5329,7 +5329,7 @@
     },
     "怪異與少女與神隱": {
         "ID": 1459,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "怪異與少女與神隱",
@@ -5353,7 +5353,7 @@
     },
     "恰如細語般的戀歌": {
         "ID": 1463,
-        "episode": "連載中(09)",
+        "episode": "連載中(10)",
         "season": "春",
         "subtitle group": "",
         "title": "恰如細語般的戀歌",
@@ -5759,6 +5759,14 @@
         "title": "我的女友是個過度認真的處女bitch",
         "year": "2017"
     },
+    "我的妻子不具感情": {
+        "ID": 1473,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "我的妻子不具感情",
+        "year": "2024"
+    },
     "我的幸福婚約": {
         "ID": 1264,
         "episode": "1-12",
@@ -5793,7 +5801,7 @@
     },
     "我的英雄學院 第七季": {
         "ID": 1439,
-        "episode": "連載中(08)",
+        "episode": "連載中(09)",
         "season": "春",
         "subtitle group": "",
         "title": "我的英雄學院 第七季",
@@ -8633,7 +8641,7 @@
     },
     "終末的火車前往何方？": {
         "ID": 1427,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "終末的火車前往何方？",
