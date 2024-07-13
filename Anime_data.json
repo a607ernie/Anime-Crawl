@@ -3353,7 +3353,7 @@
     },
     "卡片戰鬥!! 先導者 Divinez 第二季": {
         "ID": 1490,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "卡片戰鬥!! 先導者 Divinez 第二季",
@@ -4438,6 +4438,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "女神咖啡廳",
         "year": "2023"
+    },
+    "女神咖啡廳 第二季": {
+        "ID": 1508,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "女神咖啡廳 第二季",
+        "year": "2024"
     },
     "女神宿舍的管理員。": {
         "ID": 921,
@@ -5913,7 +5921,7 @@
     },
     "我的英雄學院 第七季": {
         "ID": 1439,
-        "episode": "連載中(09)",
+        "episode": "連載中(10)",
         "season": "春",
         "subtitle group": "",
         "title": "我的英雄學院 第七季",
@@ -7833,7 +7841,7 @@
     },
     "狼與辛香料 MERCHANT MEETS THE WISE WOLF": {
         "ID": 1428,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "春",
         "subtitle group": "桜都",
         "title": "狼與辛香料 MERCHANT MEETS THE WISE WOLF",
