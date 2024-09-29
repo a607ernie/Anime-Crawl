@@ -721,7 +721,7 @@
     },
     "FAIRY TAIL魔導少年 百年任務": {
         "ID": 1499,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "夏",
         "subtitle group": "",
         "title": "FAIRY TAIL魔導少年 百年任務",
@@ -3775,6 +3775,14 @@
         "title": "喵咪Days",
         "year": "2017"
     },
+    "嘆氣的亡靈想隱退": {
+        "ID": 1521,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "嘆氣的亡靈想隱退",
+        "year": "2024"
+    },
     "噬血狂襲": {
         "ID": 155,
         "episode": "1-24",
@@ -4129,7 +4137,7 @@
     },
     "夜櫻家大作戰": {
         "ID": 1443,
-        "episode": "連載中(25)",
+        "episode": "連載中(26)",
         "season": "春",
         "subtitle group": "",
         "title": "夜櫻家大作戰",
@@ -6905,7 +6913,7 @@
     },
     "杖與劍的魔劍譚": {
         "ID": 1498,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "夏",
         "subtitle group": "",
         "title": "杖與劍的魔劍譚",
@@ -10165,6 +10173,14 @@
         "season": "春",
         "subtitle group": "",
         "title": "轉生貴族憑鑑定技能扭轉人生",
+        "year": "2024"
+    },
+    "轉生貴族憑鑑定技能扭轉人生 第二季": {
+        "ID": 1520,
+        "episode": "連載中(13)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "轉生貴族憑鑑定技能扭轉人生 第二季",
         "year": "2024"
     },
     "轉生貴族的異世界冒險錄～不知自重的眾神使徒～": {
