@@ -5175,6 +5175,14 @@
         "title": "帶著智慧型手機闖蕩異世界。 第二季",
         "year": "2023"
     },
+    "常軌脫離Creative": {
+        "ID": 1540,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "常軌脫離Creative",
+        "year": "2024"
+    },
     "幕末替身傳說": {
         "ID": 1088,
         "episode": "1-12",
@@ -8735,13 +8743,21 @@
         "title": "神裝少女小纏",
         "year": "2016"
     },
-    "神選": {
+    "神選 GOD.app": {
         "ID": 1332,
         "episode": "1-12",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
-        "title": "神選",
+        "title": "神選 GOD.app",
         "year": "2023"
+    },
+    "神選 GOD.app 第二季": {
+        "ID": 1542,
+        "episode": "連載中(13)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "神選 GOD.app 第二季",
+        "year": "2024"
     },
     "福星小子(她來自煩星)": {
         "ID": 1145,
@@ -9793,8 +9809,8 @@
     },
     "蜻蛉高球": {
         "ID": 1438,
-        "episode": "1-13",
-        "season": "春",
+        "episode": "連載中(14)",
+        "season": "春/秋",
         "subtitle group": "",
         "title": "蜻蛉高球",
         "year": "2024"
