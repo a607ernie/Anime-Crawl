@@ -593,7 +593,7 @@
     },
     "DDDD 惡魔的破壞": {
         "ID": 1516,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "夏",
         "subtitle group": "Billion Meta Lab",
         "title": "DDDD 惡魔的破壞",
@@ -2033,7 +2033,7 @@
     },
     "Wonderful 光之美少女！": {
         "ID": 1416,
-        "episode": "連載中(35)",
+        "episode": "連載中(36)",
         "season": "冬",
         "subtitle group": "雪飄",
         "title": "Wonderful 光之美少女！",
@@ -7953,7 +7953,7 @@
     },
     "物語系列 第外季＆第怪季": {
         "ID": 1494,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "夏",
         "subtitle group": "桜都",
         "title": "物語系列 第外季＆第怪季",
@@ -11143,6 +11143,14 @@
         "title": "青之驅魔師 雪之盡頭篇",
         "year": "2024"
     },
+    "青春之箱": {
+        "ID": 1549,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "青春之箱",
+        "year": "2024"
+    },
     "青春豬頭少年不會夢到兔女郎學姊": {
         "ID": 402,
         "episode": "1-13",
@@ -11574,6 +11582,14 @@
         "subtitle group": "-",
         "title": "魔法使黎明期",
         "year": "2022"
+    },
+    "魔法光源股份有限公司": {
+        "ID": 1548,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "魔法光源股份有限公司",
+        "year": "2024"
     },
     "魔法少女奈葉 Detonation": {
         "ID": 581,
