@@ -1279,6 +1279,14 @@
         "title": "MF GHOST 燃油車鬥魂",
         "year": "2023"
     },
+    "MF GHOST 燃油車鬥魂 第二季": {
+        "ID": 1553,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "MF GHOST 燃油車鬥魂 第二季",
+        "year": "2024"
+    },
     "MIX": {
         "ID": 520,
         "episode": "1-24",
@@ -3865,10 +3873,18 @@
     },
     "嘆氣的亡靈想隱退": {
         "ID": 1521,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "嘆氣的亡靈想隱退",
+        "year": "2024"
+    },
+    "噗妮露是可愛史萊姆": {
+        "ID": 1552,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "噗妮露是可愛史萊姆",
         "year": "2024"
     },
     "噬血狂襲": {
@@ -4689,7 +4705,7 @@
     },
     "妻子變成小學生。": {
         "ID": 1551,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "妻子變成小學生。",
@@ -10393,7 +10409,7 @@
     },
     "轉生貴族憑鑑定技能扭轉人生 第二季": {
         "ID": 1520,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生貴族憑鑑定技能扭轉人生 第二季",
