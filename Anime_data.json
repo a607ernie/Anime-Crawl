@@ -2121,7 +2121,7 @@
     },
     "【我推的孩子】 第二季": {
         "ID": 1477,
-        "episode": "連載中(23)",
+        "episode": "連載中(24)",
         "season": "夏",
         "subtitle group": "",
         "title": "【我推的孩子】 第二季",
@@ -4686,6 +4686,14 @@
         "subtitle group": "",
         "title": "妙廟美少女",
         "year": "2023"
+    },
+    "妻子變成小學生。": {
+        "ID": 1551,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "妻子變成小學生。",
+        "year": "2024"
     },
     "婚戒物語": {
         "ID": 1381,
@@ -11153,9 +11161,9 @@
     },
     "青春之箱": {
         "ID": 1549,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "青春之箱",
         "year": "2024"
     },
