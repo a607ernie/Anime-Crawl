@@ -1183,6 +1183,14 @@
         "title": "Love Live! Superstar!!",
         "year": "2021"
     },
+    "Love Live! Superstar!! 第三季": {
+        "ID": 1554,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "Love Live! Superstar!! 第三季",
+        "year": "2024"
+    },
     "Love Live! Superstar!! 第二季": {
         "ID": 1098,
         "episode": "1-12",
@@ -1278,14 +1286,6 @@
         "subtitle group": "",
         "title": "MF GHOST 燃油車鬥魂",
         "year": "2023"
-    },
-    "MF GHOST 燃油車鬥魂 第二季": {
-        "ID": 1553,
-        "episode": "連載中(01)",
-        "season": "秋",
-        "subtitle group": "",
-        "title": "MF GHOST 燃油車鬥魂 第二季",
-        "year": "2024"
     },
     "MIX": {
         "ID": 520,
@@ -4919,6 +4919,14 @@
         "title": "將國戡亂記",
         "year": "2017"
     },
+    "尋神的旅途": {
+        "ID": 1556,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "尋神的旅途",
+        "year": "2024"
+    },
     "小不點": {
         "ID": 1351,
         "episode": "1-24",
@@ -6961,7 +6969,7 @@
     },
     "最狂輔助職業【話術士】世界最強戰團聽我號令": {
         "ID": 1522,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "最狂輔助職業【話術士】世界最強戰團聽我號令",
@@ -9007,6 +9015,14 @@
         "title": "精靈幻想記",
         "year": "2021"
     },
+    "精靈幻想記 第二季": {
+        "ID": 1559,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "精靈幻想記 第二季",
+        "year": "2024"
+    },
     "約定的七夜祭": {
         "ID": 397,
         "episode": "ONA",
@@ -10390,6 +10406,14 @@
         "subtitle group": "八重櫻",
         "title": "轉生成蜘蛛又怎樣！",
         "year": "2021"
+    },
+    "轉生成貓咪的大叔": {
+        "ID": 1557,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "轉生成貓咪的大叔",
+        "year": "2024"
     },
     "轉生為第七王子，隨心所欲的魔法學習之路": {
         "ID": 1424,
@@ -11862,6 +11886,14 @@
         "subtitle group": "",
         "title": "鴨乃橋論的禁忌推理",
         "year": "2023"
+    },
+    "鴨乃橋論的禁忌推理 第二季": {
+        "ID": 1558,
+        "episode": "連載中(14)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "鴨乃橋論的禁忌推理 第二季",
+        "year": "2024"
     },
     "鹿乃子乃子乃子虎視眈眈": {
         "ID": 1488,
