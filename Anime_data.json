@@ -1185,7 +1185,7 @@
     },
     "Love Live! Superstar!! 第三季": {
         "ID": 1554,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "Love Live! Superstar!! 第三季",
@@ -2049,7 +2049,7 @@
     },
     "Wonderful 光之美少女！": {
         "ID": 1416,
-        "episode": "連載中(37)",
+        "episode": "連載中(38)",
         "season": "冬",
         "subtitle group": "雪飄",
         "title": "Wonderful 光之美少女！",
@@ -2094,6 +2094,14 @@
         "subtitle group": "幻櫻不夠熱",
         "title": "citrus~柑橘味香氣~",
         "year": "2018"
+    },
+    "d股份有限公司": {
+        "ID": 1548,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "d股份有限公司",
+        "year": "2024"
     },
     "number24": {
         "ID": 664,
@@ -2489,7 +2497,7 @@
     },
     "亂馬 1/2": {
         "ID": 1550,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "亂馬 1/2",
@@ -3833,7 +3841,7 @@
     },
     "唯願來世不相識": {
         "ID": 1555,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "唯願來世不相識",
@@ -4105,7 +4113,7 @@
     },
     "地。-關於地球的運動-": {
         "ID": 1561,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "地。-關於地球的運動-",
@@ -4953,7 +4961,7 @@
     },
     "尋神的旅途": {
         "ID": 1556,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "尋神的旅途",
@@ -5305,7 +5313,7 @@
     },
     "平凡職業造就世界最強 第三季": {
         "ID": 1564,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "平凡職業造就世界最強 第三季",
@@ -7009,7 +7017,7 @@
     },
     "最狂輔助職業【話術士】世界最強戰團聽我號令": {
         "ID": 1522,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "最狂輔助職業【話術士】世界最強戰團聽我號令",
@@ -8033,7 +8041,7 @@
     },
     "物語系列 第外季＆第怪季": {
         "ID": 1494,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "夏",
         "subtitle group": "桜都",
         "title": "物語系列 第外季＆第怪季",
@@ -8785,7 +8793,7 @@
     },
     "神之塔 第二季": {
         "ID": 1507,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "夏",
         "subtitle group": "喵萌奶茶屋",
         "title": "神之塔 第二季",
@@ -8857,7 +8865,7 @@
     },
     "神選 GOD.app 第二季": {
         "ID": 1542,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "神選 GOD.app 第二季",
@@ -8929,7 +8937,7 @@
     },
     "秘密的美妙公主": {
         "ID": 1465,
-        "episode": "連載中(28)",
+        "episode": "連載中(29)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "秘密的美妙公主",
@@ -10449,7 +10457,7 @@
     },
     "轉生成貓咪的大叔": {
         "ID": 1557,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生成貓咪的大叔",
@@ -11257,7 +11265,7 @@
     },
     "青春之箱": {
         "ID": 1549,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "青春之箱",
@@ -11703,14 +11711,6 @@
         "title": "魔法使黎明期",
         "year": "2022"
     },
-    "魔法光源股份有限公司": {
-        "ID": 1548,
-        "episode": "連載中(01)",
-        "season": "秋",
-        "subtitle group": "",
-        "title": "魔法光源股份有限公司",
-        "year": "2024"
-    },
     "魔法少女奈葉 Detonation": {
         "ID": 581,
         "episode": "劇場版",
@@ -11961,7 +11961,7 @@
     },
     "鴨乃橋論的禁忌推理 第二季": {
         "ID": 1558,
-        "episode": "連載中(15)",
+        "episode": "連載中(16)",
         "season": "秋",
         "subtitle group": "",
         "title": "鴨乃橋論的禁忌推理 第二季",
