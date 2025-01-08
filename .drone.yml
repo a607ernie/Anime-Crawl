@@ -1,0 +1,43 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  # Step 1: 拉取代碼
+  - name: check-environment2
+    image: busybox
+    environment:
+      GIT_USERNAME:
+        from_secret: git_username
+      GIT_EMAIL:
+        from_secret: git_email
+    commands:
+      - env  # 列出所有環境變數
+      - echo $GIT_USERNAME  #測試有值
+      - echo $${GIT_USERNAME} #測試有值
+  # Step 2: 安裝依賴並執行腳本
+  - name: run-script
+    image: python:3.10
+    commands:
+      - python -m pip install --upgrade pip
+      - pip install -r requirements.txt
+      - python AniCrawl.py
+
+  # Step 3: 提交更改至 GitHub
+  - name: push-changes
+    image: alpine/git
+    environment:
+      GIT_USERNAME:
+        from_secret: git_username
+      GIT_EMAIL:
+        from_secret: git_email
+      GIT_ACCESS_TOKEN:
+        from_secret: git_access_token
+    secrets: [git_username, git_email, git_access_token]
+    commands:
+      - git config --global user.name $${GIT_USERNAME}
+      - git config --global user.email $${GIT_EMAIL}
+      - git add .
+      - git commit -m "Update Anime information from Anime1" || echo "No changes to commit"
+      - git push https://$${GIT_USERNAME}:$${GIT_ACCESS_TOKEN}@github.com/$${GIT_USERNAME}/Anime-Crawl.git main
+
