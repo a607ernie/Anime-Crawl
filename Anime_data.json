@@ -473,7 +473,7 @@
     },
     "BanG Dream! Ave Mujica": {
         "ID": 1576,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "BanG Dream! Ave Mujica",
@@ -694,6 +694,14 @@
         "subtitle group": "豌豆&風之聖殿",
         "title": "Dr.STONE 新石紀 NEW WORLD",
         "year": "2023"
+    },
+    "Dr.STONE 新石紀 SCIENCE FUTURE": {
+        "ID": 1590,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "Dr.STONE 新石紀 SCIENCE FUTURE",
+        "year": "2025"
     },
     "Dr.STONE 新石紀 STONE WARS(第二季)": {
         "ID": 835,
@@ -1337,7 +1345,7 @@
     },
     "MOMENTARY LILY 剎那之花": {
         "ID": 1577,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "MOMENTARY LILY 剎那之花",
@@ -2193,7 +2201,7 @@
     },
     "一兆＄遊戲": {
         "ID": 1533,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "一兆＄遊戲",
@@ -2358,6 +2366,14 @@
         "subtitle group": "悠哈璃羽",
         "title": "不吉波普不笑",
         "year": "2019"
+    },
+    "不幸職業【鑑定士】其實是最強的": {
+        "ID": 1591,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "不幸職業【鑑定士】其實是最強的",
+        "year": "2025"
     },
     "不愉快的妖怪庵 續 (第二季)": {
         "ID": 469,
@@ -2526,6 +2542,14 @@
         "subtitle group": "千夏",
         "title": "中二病也想談戀愛！-Take On Me-",
         "year": "2018"
+    },
+    "中年大叔轉生反派千金": {
+        "ID": 1592,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "中年大叔轉生反派千金",
+        "year": "2025"
     },
     "中間管理錄利根川": {
         "ID": 362,
@@ -9311,6 +9335,14 @@
         "title": "終末的火車前往何方？",
         "year": "2024"
     },
+    "終究，與你相戀。": {
+        "ID": 1593,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "終究，與你相戀。",
+        "year": "2025"
+    },
     "組長女兒與保姆": {
         "ID": 1084,
         "episode": "1-12",
@@ -11424,7 +11456,7 @@
         "year": "2024"
     },
     "青春特調蜂蜜檸檬蘇打": {
-        "ID": 1588,
+        "ID": 1589,
         "episode": "連載中(01)",
         "season": "冬",
         "subtitle group": "",
