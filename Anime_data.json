@@ -183,6 +183,14 @@
         "title": "<a href=\"https://anime1.pw/?cat=47\">大正虛假新娘～替身新娘與軍人的猛烈熱愛～</a>",
         "year": "2024"
     },
+    "<a href=\"https://anime1.pw/?cat=50\">「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。</a>": {
+        "ID": 0,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "桜都",
+        "title": "<a href=\"https://anime1.pw/?cat=50\">「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。</a>",
+        "year": "2025"
+    },
     "A.I.C.O.：化身(A.I.C.O. Incarnation)": {
         "ID": 295,
         "episode": "1-12",
@@ -473,7 +481,7 @@
     },
     "BanG Dream! Ave Mujica": {
         "ID": 1576,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "BanG Dream! Ave Mujica",
@@ -697,7 +705,7 @@
     },
     "Dr.STONE 新石紀 SCIENCE FUTURE": {
         "ID": 1590,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "Dr.STONE 新石紀 SCIENCE FUTURE",
@@ -1353,7 +1361,7 @@
     },
     "MOMENTARY LILY 剎那之花": {
         "ID": 1577,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "MOMENTARY LILY 剎那之花",
@@ -1767,6 +1775,14 @@
         "title": "Room Mate",
         "year": "2017"
     },
+    "SAKAMOTO DAYS 坂本日常": {
+        "ID": 1612,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "北宇治",
+        "title": "SAKAMOTO DAYS 坂本日常",
+        "year": "2025"
+    },
     "SAKURA QUEST 櫻花任務": {
         "ID": 97,
         "episode": "1-25",
@@ -2047,6 +2063,14 @@
         "title": "Unnamed Memory 無名記憶",
         "year": "2024"
     },
+    "Unnamed Memory 無名記憶 Act.2(第二季)": {
+        "ID": 1611,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "Unnamed Memory 無名記憶 Act.2(第二季)",
+        "year": "2025"
+    },
     "VISUAL PRISON 視覺監獄": {
         "ID": 953,
         "episode": "1-12",
@@ -2217,7 +2241,7 @@
     },
     "一兆＄遊戲": {
         "ID": 1533,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "一兆＄遊戲",
@@ -2257,7 +2281,7 @@
     },
     "一桿青空": {
         "ID": 1579,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "一桿青空",
@@ -2385,7 +2409,7 @@
     },
     "不幸職業【鑑定士】其實是最強的": {
         "ID": 1591,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "不幸職業【鑑定士】其實是最強的",
@@ -2561,7 +2585,7 @@
     },
     "中年大叔轉生反派千金": {
         "ID": 1592,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "中年大叔轉生反派千金",
@@ -3129,7 +3153,7 @@
     },
     "凍牌～地下麻將鬥牌錄～": {
         "ID": 1540,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "凍牌～地下麻將鬥牌錄～",
@@ -3566,6 +3590,14 @@
         "subtitle group": "",
         "title": "卡片戰鬥!! 先導者 Divinez",
         "year": "2024"
+    },
+    "卡片戰鬥!! 先導者 Divinez 第三季 DELUXE篇": {
+        "ID": 1613,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "卡片戰鬥!! 先導者 Divinez 第三季 DELUXE篇",
+        "year": "2025"
     },
     "卡片戰鬥!! 先導者 Divinez 第二季": {
         "ID": 1490,
@@ -4217,7 +4249,7 @@
     },
     "地。-關於地球的運動-": {
         "ID": 1561,
-        "episode": "連載中(13)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "地。-關於地球的運動-",
@@ -4841,7 +4873,7 @@
     },
     "妖怪學校的菜鳥老師！": {
         "ID": 1560,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "妖怪學校的菜鳥老師！",
@@ -5057,7 +5089,7 @@
     },
     "寶可夢 地平線 烈空坐之升龍崛起": {
         "ID": 1567,
-        "episode": "連載中(75)",
+        "episode": "連載中(78)",
         "season": "秋",
         "subtitle group": "楓葉",
         "title": "寶可夢 地平線 烈空坐之升龍崛起",
@@ -5441,7 +5473,7 @@
     },
     "平凡上班族到異世界當上了四天王的故事": {
         "ID": 1574,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "平凡上班族到異世界當上了四天王的故事",
@@ -6153,7 +6185,7 @@
     },
     "我和班上最討厭的女生結婚了。": {
         "ID": 1580,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "我和班上最討厭的女生結婚了。",
@@ -6249,7 +6281,7 @@
     },
     "我想蹺掉太子妃培訓": {
         "ID": 1585,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "我想蹺掉太子妃培訓",
@@ -6761,7 +6793,7 @@
     },
     "放學後少年花子君": {
         "ID": 1367,
-        "episode": "連載中(08)",
+        "episode": "1-8",
         "season": "秋",
         "subtitle group": "MCE漢化組",
         "title": "放學後少年花子君",
@@ -7174,6 +7206,14 @@
         "subtitle group": "",
         "title": "曾經、魔法少女和邪惡相互為敵。",
         "year": "2024"
+    },
+    "最弱技能《果實大師》 ～關於能無限食用技能果實（吃了就會死）這件事～": {
+        "ID": 1610,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "最弱技能《果實大師》 ～關於能無限食用技能果實（吃了就會死）這件事～",
+        "year": "2025"
     },
     "最弱魔物使開始了撿垃圾之旅。": {
         "ID": 1407,
@@ -7593,7 +7633,7 @@
     },
     "歡迎來到日本，妖精小姐。": {
         "ID": 1595,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "歡迎來到日本，妖精小姐。",
@@ -9009,7 +9049,7 @@
     },
     "神劍闖江湖 ―明治劍客浪漫譚― 京都動亂 (第二季)": {
         "ID": 1534,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "神劍闖江湖 ―明治劍客浪漫譚― 京都動亂 (第二季)",
@@ -9393,7 +9433,7 @@
     },
     "終究，與你相戀。": {
         "ID": 1593,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "終究，與你相戀。",
@@ -9457,7 +9497,7 @@
     },
     "結緣甘神神社": {
         "ID": 1523,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "結緣甘神神社",
@@ -9633,7 +9673,7 @@
     },
     "群花綻放、彷如修羅": {
         "ID": 1588,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "群花綻放、彷如修羅",
@@ -10689,7 +10729,7 @@
     },
     "轉生成貓咪的大叔": {
         "ID": 1557,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生成貓咪的大叔",
@@ -10817,7 +10857,7 @@
     },
     "這公司有我喜歡的人": {
         "ID": 1587,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "這公司有我喜歡的人",
@@ -10921,7 +10961,7 @@
     },
     "遲早是最強的鍊金術師？": {
         "ID": 1573,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "遲早是最強的鍊金術師？",
@@ -10993,7 +11033,7 @@
     },
     "金牌得主": {
         "ID": 1605,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "喵萌奶茶屋",
         "title": "金牌得主",
@@ -11227,15 +11267,15 @@
         "ID": 1168,
         "episode": "1-12",
         "season": "冬",
-        "subtitle group": "千夏",
+        "subtitle group": "喵萌奶茶屋",
         "title": "間諜教室",
         "year": "2023"
     },
     "間諜教室 第二季": {
         "ID": 1297,
-        "episode": "1-24",
+        "episode": "13-24",
         "season": "夏",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "間諜教室 第二季",
         "year": "2023"
     },
@@ -11409,7 +11449,7 @@
     },
     "雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目": {
         "ID": 1597,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目",
@@ -11553,7 +11593,7 @@
     },
     "青春之箱": {
         "ID": 1549,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "青春之箱",
@@ -11561,7 +11601,7 @@
     },
     "青春特調蜂蜜檸檬蘇打": {
         "ID": 1589,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "青春特調蜂蜜檸檬蘇打",
@@ -11779,7 +11819,7 @@
         "ID": 1312,
         "episode": "1-25",
         "season": "秋",
-        "subtitle group": "",
+        "subtitle group": "動漫國",
         "title": "香格里拉·開拓異境～糞作獵手挑戰神作～",
         "year": "2023"
     },
@@ -12001,7 +12041,7 @@
     },
     "魔法使的約定": {
         "ID": 1586,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "魔法使的約定",
@@ -12126,6 +12166,14 @@
         "subtitle group": "SweetSub&圓環記錄攻略組",
         "title": "魔法紀錄 魔法少女小圓外傳 第二季 -覺醒前夜-",
         "year": "2021"
+    },
+    "魔法製造者～異世界魔法的製作方法～": {
+        "ID": 1609,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "幻櫻",
+        "title": "魔法製造者～異世界魔法的製作方法～",
+        "year": "2025"
     },
     "魔法高校的劣等生劇場版 呼喚繁星的少女": {
         "ID": 291,
@@ -12305,7 +12353,7 @@
     },
     "黃昏旅店": {
         "ID": 1578,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "黃昏旅店",
