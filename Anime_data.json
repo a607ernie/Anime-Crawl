@@ -1777,7 +1777,7 @@
     },
     "SAKAMOTO DAYS 坂本日常": {
         "ID": 1612,
-        "episode": "連載中(01)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "北宇治",
         "title": "SAKAMOTO DAYS 坂本日常",
@@ -3033,7 +3033,7 @@
     },
     "全修。": {
         "ID": 1604,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "喵萌奶茶屋",
         "title": "全修。",
@@ -4385,7 +4385,7 @@
     },
     "夏目友人帳 漆": {
         "ID": 1568,
-        "episode": "連載中(09)",
+        "episode": "1-12",
         "season": "秋",
         "subtitle group": "千夏",
         "title": "夏目友人帳 漆",
@@ -4881,7 +4881,7 @@
     },
     "妖怪學校的菜鳥老師！": {
         "ID": 1560,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "妖怪學校的菜鳥老師！",
@@ -6334,6 +6334,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "我的幸福婚約",
         "year": "2023"
+    },
+    "我的幸福婚約 第二季": {
+        "ID": 1616,
+        "episode": "連載中(03)",
+        "season": "冬",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "我的幸福婚約 第二季",
+        "year": "2025"
     },
     "我的推是壞人大小姐。": {
         "ID": 1319,
@@ -9505,7 +9513,7 @@
     },
     "結緣甘神神社": {
         "ID": 1523,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "結緣甘神神社",
@@ -11041,7 +11049,7 @@
     },
     "金牌得主": {
         "ID": 1605,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "喵萌奶茶屋",
         "title": "金牌得主",
@@ -11601,7 +11609,7 @@
     },
     "青春之箱": {
         "ID": 1549,
-        "episode": "連載中(15)",
+        "episode": "連載中(16)",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "青春之箱",
@@ -12185,7 +12193,7 @@
     },
     "魔法製造者～異世界魔法的製作方法～": {
         "ID": 1609,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "幻櫻",
         "title": "魔法製造者～異世界魔法的製作方法～",
