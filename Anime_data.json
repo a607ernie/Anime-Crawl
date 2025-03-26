@@ -4889,7 +4889,7 @@
     },
     "妖怪學校的菜鳥老師！": {
         "ID": 1560,
-        "episode": "連載中(23)",
+        "episode": "1-24",
         "season": "秋",
         "subtitle group": "",
         "title": "妖怪學校的菜鳥老師！",
@@ -6301,6 +6301,14 @@
         "season": "冬",
         "subtitle group": "",
         "title": "我想蹺掉太子妃培訓",
+        "year": "2025"
+    },
+    "我是星際國家的惡德領主": {
+        "ID": 1620,
+        "episode": "連載中(02)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "我是星際國家的惡德領主",
         "year": "2025"
     },
     "我獨自升級": {
@@ -9521,7 +9529,7 @@
     },
     "結緣甘神神社": {
         "ID": 1523,
-        "episode": "連載中(23)",
+        "episode": "1-24",
         "season": "秋",
         "subtitle group": "",
         "title": "結緣甘神神社",
