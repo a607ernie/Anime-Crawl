@@ -1361,7 +1361,7 @@
     },
     "MOMENTARY LILY 剎那之花": {
         "ID": 1577,
-        "episode": "1-13",
+        "episode": "1-13+14",
         "season": "冬",
         "subtitle group": "",
         "title": "MOMENTARY LILY 剎那之花",
@@ -10769,7 +10769,7 @@
     },
     "轉生成貓咪的大叔": {
         "ID": 1557,
-        "episode": "1-24",
+        "episode": "連載中(25)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生成貓咪的大叔",
@@ -11089,7 +11089,7 @@
     },
     "金肉人 完美超人始祖篇 第二季": {
         "ID": 1607,
-        "episode": "連載中(10)",
+        "episode": "1-11",
         "season": "冬",
         "subtitle group": "",
         "title": "金肉人 完美超人始祖篇 第二季",
@@ -11998,6 +11998,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "高校艦隊 劇場版",
         "year": "2020"
+    },
+    "鬼人幻燈抄": {
+        "ID": 1622,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "鬼人幻燈抄",
+        "year": "2025"
     },
     "鬼滅之刃": {
         "ID": 521,
