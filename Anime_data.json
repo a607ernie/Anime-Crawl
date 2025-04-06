@@ -575,6 +575,14 @@
         "title": "Carole & Tuesday",
         "year": "2019"
     },
+    "Classic★Stars – 古典樂★之星": {
+        "ID": 1637,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "Classic★Stars – 古典樂★之星",
+        "year": "2025"
+    },
     "Code：Realize ～創世的姫君～": {
         "ID": 226,
         "episode": "1-12+OVA",
@@ -2049,7 +2057,7 @@
     },
     "UniteUp! 眾星齊聚 -Uni:Birth- (第二季)": {
         "ID": 1599,
-        "episode": "連載中(10)",
+        "episode": "1-12",
         "season": "冬",
         "subtitle group": "",
         "title": "UniteUp! 眾星齊聚 -Uni:Birth- (第二季)",
@@ -5201,7 +5209,7 @@
     },
     "小市民系列": {
         "ID": 1496,
-        "episode": "1-10",
+        "episode": "連載中(11)",
         "season": "夏",
         "subtitle group": "",
         "title": "小市民系列",
@@ -11641,7 +11649,7 @@
     },
     "離開A級隊伍的我，和從前的弟子往迷宮深處邁進": {
         "ID": 1600,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "冬",
         "subtitle group": "",
         "title": "離開A級隊伍的我，和從前的弟子往迷宮深處邁進",
@@ -12582,6 +12590,14 @@
         "subtitle group": "",
         "title": "黑執事 -寄宿學校篇-",
         "year": "2024"
+    },
+    "黑執事 -綠之魔女篇-": {
+        "ID": 1636,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "黑執事 -綠之魔女篇-",
+        "year": "2025"
     },
     "黑暗集會": {
         "ID": 1291,
