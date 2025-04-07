@@ -1167,6 +1167,14 @@
         "title": "Just Because!",
         "year": "2017"
     },
+    "LAZARUS 拉撒路": {
+        "ID": 1642,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "LAZARUS 拉撒路",
+        "year": "2025"
+    },
     "LISTENERS": {
         "ID": 703,
         "episode": "1-12",
@@ -2119,6 +2127,14 @@
         "title": "WIND BREAKER—防風少年— 第二季",
         "year": "2025"
     },
+    "WITCH WATCH 魔女守護者": {
+        "ID": 1638,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "WITCH WATCH 魔女守護者",
+        "year": "2025"
+    },
     "WIXOSS DIVA(A)LIVE": {
         "ID": 836,
         "episode": "1-12",
@@ -2793,7 +2809,7 @@
     },
     "使人誤解的工房主～關於原英雄隊伍的雜役人員，實際上除了戰鬥能力外全是SSS的故事～": {
         "ID": 1621,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "使人誤解的工房主～關於原英雄隊伍的雜役人員，實際上除了戰鬥能力外全是SSS的故事～",
@@ -3335,6 +3351,14 @@
         "title": "刻刻 ─時間暫停─",
         "year": "2018"
     },
+    "前橋魔女": {
+        "ID": 1639,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "前橋魔女",
+        "year": "2025"
+    },
     "前輩有夠煩": {
         "ID": 959,
         "episode": "1-12",
@@ -3446,6 +3470,22 @@
         "subtitle group": "千夏",
         "title": "劇場編輯版 隱瞞之事 秘密之事是什麼？",
         "year": "2021"
+    },
+    "劇場總集篇 孤獨搖滾！Re": {
+        "ID": 1643,
+        "episode": "劇場版",
+        "season": "春",
+        "subtitle group": "千夏",
+        "title": "劇場總集篇 孤獨搖滾！Re",
+        "year": "2024"
+    },
+    "劇場總集篇 孤獨搖滾！Re:Re:": {
+        "ID": 1644,
+        "episode": "劇場版",
+        "season": "夏",
+        "subtitle group": "千夏",
+        "title": "劇場總集篇 孤獨搖滾！Re:Re:",
+        "year": "2024"
     },
     "加油吧同期醬": {
         "ID": 931,
@@ -5847,6 +5887,14 @@
         "title": "快盜天使雙胞胎BREAK",
         "year": "2017"
     },
+    "快藏好！瑪琪娜同學！！": {
+        "ID": 1641,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "快藏好！瑪琪娜同學！！",
+        "year": "2025"
+    },
     "怕痛的我，把防禦力點滿就對了": {
         "ID": 663,
         "episode": "1-12",
@@ -6062,6 +6110,14 @@
         "subtitle group": "時雨初空",
         "title": "愛在雨過天晴時",
         "year": "2018"
+    },
+    "愛有點沉重的暗黑精靈從異世界緊追不放": {
+        "ID": 1640,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "愛有點沉重的暗黑精靈從異世界緊追不放",
+        "year": "2025"
     },
     "愛犬訊號": {
         "ID": 1360,
@@ -10297,7 +10353,7 @@
     },
     "藥師少女的獨語 第二季": {
         "ID": 1598,
-        "episode": "連載中(36)",
+        "episode": "連載中(37)",
         "season": "冬",
         "subtitle group": "豌豆",
         "title": "藥師少女的獨語 第二季",
@@ -12417,7 +12473,7 @@
     },
     "魔神創造傳": {
         "ID": 1602,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "冬",
         "subtitle group": "",
         "title": "魔神創造傳",
