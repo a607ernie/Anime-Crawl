@@ -1963,7 +1963,7 @@
         "ID": 1647,
         "episode": "連載中(01)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "Summer Pockets",
         "year": "2025"
     },
@@ -6795,7 +6795,7 @@
         "ID": 1632,
         "episode": "連載中(01)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季",
         "year": "2025"
     },
@@ -8785,7 +8785,7 @@
     },
     "男女之間存在純友情嗎？（不，不存在！）": {
         "ID": 1630,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "男女之間存在純友情嗎？（不，不存在！）",
@@ -9342,6 +9342,14 @@
         "subtitle group": "桜都",
         "title": "神田川 JET GIRLS",
         "year": "2019"
+    },
+    "神統記": {
+        "ID": 1657,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "神統記",
+        "year": "2025"
     },
     "神裝少女小纏": {
         "ID": 62,
