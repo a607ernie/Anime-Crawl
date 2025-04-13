@@ -577,7 +577,7 @@
     },
     "Classic★Stars – 古典樂★之星": {
         "ID": 1637,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "Classic★Stars – 古典樂★之星",
@@ -2223,6 +2223,14 @@
         "title": "citrus~柑橘味香氣~",
         "year": "2018"
     },
+    "mono女孩": {
+        "ID": 1660,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "mono女孩",
+        "year": "2025"
+    },
     "number24": {
         "ID": 664,
         "episode": "1-12",
@@ -2673,7 +2681,7 @@
     },
     "九龍大眾浪漫": {
         "ID": 1634,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "九龍大眾浪漫",
@@ -4377,7 +4385,7 @@
     },
     "地。-關於地球的運動-": {
         "ID": 1561,
-        "episode": "連載中(22)",
+        "episode": "1-25",
         "season": "秋",
         "subtitle group": "喵萌奶茶屋",
         "title": "地。-關於地球的運動-",
@@ -5145,7 +5153,7 @@
     },
     "安妮·雪利": {
         "ID": 1635,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "安妮·雪利",
@@ -6801,7 +6809,7 @@
     },
     "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季": {
         "ID": 1632,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季",
@@ -6905,7 +6913,7 @@
     },
     "搞笑漫畫日和 GO": {
         "ID": 1633,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "搞笑漫畫日和 GO",
@@ -7551,6 +7559,14 @@
         "title": "朋友遊戲",
         "year": "2022"
     },
+    "末日後酒店": {
+        "ID": 1661,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "末日後酒店",
+        "year": "2025"
+    },
     "末日時在做什麼？有沒有空？可以來拯救嗎？": {
         "ID": 121,
         "episode": "1-12",
@@ -7910,6 +7926,14 @@
         "subtitle group": "極影",
         "title": "武裝少女Machiavellianism",
         "year": "2017"
+    },
+    "歲月流逝飯菜依舊美味": {
+        "ID": 1659,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "歲月流逝飯菜依舊美味",
+        "year": "2025"
     },
     "死神少爺與黑女僕": {
         "ID": 907,
@@ -10457,7 +10481,7 @@
     },
     "藥師少女的獨語 第二季": {
         "ID": 1598,
-        "episode": "連載中(37)",
+        "episode": "連載中(38)",
         "season": "冬",
         "subtitle group": "豌豆",
         "title": "藥師少女的獨語 第二季",
@@ -11817,7 +11841,7 @@
     },
     "離開A級隊伍的我，和從前的弟子往迷宮深處邁進": {
         "ID": 1600,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "冬",
         "subtitle group": "",
         "title": "離開A級隊伍的我，和從前的弟子往迷宮深處邁進",
@@ -12761,7 +12785,7 @@
     },
     "黑執事 -綠之魔女篇-": {
         "ID": 1636,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "黑執事 -綠之魔女篇-",
