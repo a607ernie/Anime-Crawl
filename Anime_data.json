@@ -2153,7 +2153,7 @@
     },
     "WITCH WATCH 魔女守護者": {
         "ID": 1638,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "WITCH WATCH 魔女守護者",
@@ -2673,7 +2673,7 @@
     },
     "中禪寺老師妖怪講義錄 解謎就交給老師。": {
         "ID": 1650,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "中禪寺老師妖怪講義錄 解謎就交給老師。",
@@ -2865,7 +2865,7 @@
     },
     "來到棒球場捕捉我": {
         "ID": 1665,
-        "episode": "連載中(01)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "六四位元",
         "title": "來到棒球場捕捉我",
@@ -5337,7 +5337,7 @@
     },
     "小市民系列 第二季": {
         "ID": 1662,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "小市民系列 第二季",
@@ -6809,7 +6809,7 @@
     },
     "拜託請穿上，鷹峰同學": {
         "ID": 1645,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "桜都",
         "title": "拜託請穿上，鷹峰同學",
@@ -7595,7 +7595,7 @@
         "ID": 1661,
         "episode": "連載中(01)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "喵萌奶茶屋",
         "title": "末日後酒店",
         "year": "2025"
     },
@@ -7806,6 +7806,14 @@
         "subtitle group": "LoliHouse",
         "title": "橘色榮耀！",
         "year": "2021"
+    },
+    "機動戰士Gundam GQuuuuuuX": {
+        "ID": 1667,
+        "episode": "連載中(02)",
+        "season": "春",
+        "subtitle group": "SweetSub",
+        "title": "機動戰士Gundam GQuuuuuuX",
+        "year": "2025"
     },
     "機動戰士鋼彈 水星的魔女": {
         "ID": 1119,
@@ -8446,6 +8454,14 @@
         "subtitle group": "幻櫻",
         "title": "無意間變成狗，被喜歡的女生撿回家。",
         "year": "2023"
+    },
+    "無法抑制之情是否喚作愛": {
+        "ID": 1668,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "秋人",
+        "title": "無法抑制之情是否喚作愛",
+        "year": "2025"
     },
     "無職轉生II～到了異世界就拿出真本事～ (第二季)": {
         "ID": 1270,
@@ -10513,7 +10529,7 @@
     },
     "藥師少女的獨語 第二季": {
         "ID": 1598,
-        "episode": "連載中(38)",
+        "episode": "連載中(39)",
         "season": "冬",
         "subtitle group": "豌豆",
         "title": "藥師少女的獨語 第二季",
@@ -11110,6 +11126,14 @@
         "subtitle group": "",
         "title": "轉生成貓咪的大叔",
         "year": "2024"
+    },
+    "轉生為白豬貴族的我，運用前世記憶養育雛鳥般的弟弟": {
+        "ID": 1669,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "轉生為白豬貴族的我，運用前世記憶養育雛鳥般的弟弟",
+        "year": "2025"
     },
     "轉生為第七王子，隨心所欲的魔法學習之路": {
         "ID": 1424,
@@ -12345,7 +12369,7 @@
     },
     "鬼人幻燈抄": {
         "ID": 1622,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "鬼人幻燈抄",
@@ -12649,7 +12673,7 @@
     },
     "魔神創造傳": {
         "ID": 1602,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "冬",
         "subtitle group": "",
         "title": "魔神創造傳",
@@ -12827,7 +12851,7 @@
         "ID": 1636,
         "episode": "連載中(03)",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "豌豆",
         "title": "黑執事 -綠之魔女篇-",
         "year": "2025"
     },
