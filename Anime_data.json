@@ -577,7 +577,7 @@
     },
     "Classic★Stars – 古典樂★之星": {
         "ID": 1637,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "Classic★Stars – 古典樂★之星",
@@ -2241,7 +2241,7 @@
     },
     "mono女孩": {
         "ID": 1660,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "",
         "title": "mono女孩",
@@ -2697,7 +2697,7 @@
     },
     "九龍大眾浪漫": {
         "ID": 1634,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "九龍大眾浪漫",
@@ -5177,7 +5177,7 @@
     },
     "安妮·雪利": {
         "ID": 1635,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "安妮·雪利",
@@ -6849,7 +6849,7 @@
     },
     "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季": {
         "ID": 1632,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "持續狩獵史萊姆三百年，不知不覺就練到 LV MAX 第二季",
@@ -6953,7 +6953,7 @@
     },
     "搞笑漫畫日和 GO": {
         "ID": 1633,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "",
         "title": "搞笑漫畫日和 GO",
@@ -7005,6 +7005,14 @@
         "season": "夏",
         "subtitle group": "",
         "title": "擅長逃跑的殿下",
+        "year": "2024"
+    },
+    "擊浪青春": {
+        "ID": 1671,
+        "episode": "劇場版",
+        "season": "秋",
+        "subtitle group": "MCE漢化組",
+        "title": "擊浪青春",
         "year": "2024"
     },
     "擴張少女系三重奏(擴張少女系Trinary)": {
@@ -7977,7 +7985,7 @@
     },
     "歲月流逝飯菜依舊美味": {
         "ID": 1659,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "歲月流逝飯菜依舊美味",
@@ -11913,7 +11921,7 @@
     },
     "離開A級隊伍的我，和從前的弟子往迷宮深處邁進": {
         "ID": 1600,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "冬",
         "subtitle group": "",
         "title": "離開A級隊伍的我，和從前的弟子往迷宮深處邁進",
@@ -12857,7 +12865,7 @@
     },
     "黑執事 -綠之魔女篇-": {
         "ID": 1636,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "春",
         "subtitle group": "豌豆",
         "title": "黑執事 -綠之魔女篇-",
