@@ -1649,7 +1649,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(12)",
+        "episode": "連載中(12.5)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -8102,6 +8102,14 @@
         "subtitle group": "-",
         "title": "比方說，這是個出身魔王關附近的少年在新手村生活的故事",
         "year": "2021"
+    },
+    "水屬性的魔法師": {
+        "ID": 1682,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "水屬性的魔法師",
+        "year": "2025"
     },
     "江戶前精靈": {
         "ID": 1237,
