@@ -745,8 +745,8 @@
     },
     "Dr.STONE 新石紀 SCIENCE FUTURE": {
         "ID": 1590,
-        "episode": "1-12",
-        "season": "冬",
+        "episode": "連載中(13)",
+        "season": "冬/夏",
         "subtitle group": "",
         "title": "Dr.STONE 新石紀 SCIENCE FUTURE",
         "year": "2025"
@@ -8113,7 +8113,7 @@
     },
     "歡迎光臨流放者食堂！": {
         "ID": 1681,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "歡迎光臨流放者食堂！",
@@ -8257,7 +8257,7 @@
     },
     "水屬性的魔法師": {
         "ID": 1682,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "水屬性的魔法師",
@@ -9673,7 +9673,7 @@
     },
     "神椿市建設中。": {
         "ID": 1680,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "神椿市建設中。",
@@ -12214,6 +12214,14 @@
         "subtitle group": "",
         "title": "雖然等級只有1級但固有技能是最強的",
         "year": "2023"
+    },
+    "雙人單身露營": {
+        "ID": 1715,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "雙人單身露營",
+        "year": "2025"
     },
     "雙生戀情密不可分": {
         "ID": 1511,
