@@ -1689,7 +1689,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -2033,7 +2033,7 @@
     },
     "Summer Pockets": {
         "ID": 1647,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "Summer Pockets",
@@ -2201,7 +2201,7 @@
     },
     "WIND BREAKER—防風少年— 第二季": {
         "ID": 1629,
-        "episode": "連載中(12)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "",
         "title": "WIND BREAKER—防風少年— 第二季",
@@ -7359,6 +7359,14 @@
         "title": "新來的女傭有點怪",
         "year": "2022"
     },
+    "新吊帶襪天使 (New PANTY and STOCKING with GARTERBELT)": {
+        "ID": 1719,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "新吊帶襪天使 (New PANTY and STOCKING with GARTERBELT)",
+        "year": "2025"
+    },
     "新妹魔王的契約者 DEPARTURES": {
         "ID": 294,
         "episode": "OVA",
@@ -9721,7 +9729,7 @@
     },
     "神統記": {
         "ID": 1657,
-        "episode": "連載中(12)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "",
         "title": "神統記",
@@ -9817,7 +9825,7 @@
     },
     "秘密的偶像公主 第二季": {
         "ID": 1646,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "秘密的偶像公主 第二季",
@@ -10545,7 +10553,7 @@
     },
     "膽大黨 第二季": {
         "ID": 1679,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "膽大黨 第二季",
@@ -12745,7 +12753,7 @@
     },
     "鬼人幻燈抄": {
         "ID": 1622,
-        "episode": "連載中(12)",
+        "episode": "連載中(14)",
         "season": "春",
         "subtitle group": "",
         "title": "鬼人幻燈抄",
