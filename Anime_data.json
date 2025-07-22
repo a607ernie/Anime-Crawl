@@ -1033,7 +1033,7 @@
     },
     "GRAND BLUE 碧藍之海 第二季": {
         "ID": 1708,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "GRAND BLUE 碧藍之海 第二季",
@@ -6521,7 +6521,7 @@
     },
     "我們不可能成為戀人！絕對不行。 (※似乎可行？)": {
         "ID": 1709,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "我們不可能成為戀人！絕對不行。 (※似乎可行？)",
@@ -11718,6 +11718,14 @@
         "subtitle group": "VRAINSTORM",
         "title": "遊戲王VRAINS",
         "year": "2017"
+    },
+    "遊樂場少女的異文化交流": {
+        "ID": 1723,
+        "episode": "連載中(03)",
+        "season": "夏",
+        "subtitle group": "六四位元",
+        "title": "遊樂場少女的異文化交流",
+        "year": "2025"
     },
     "道別的早晨就用約定之花點綴吧": {
         "ID": 453,
