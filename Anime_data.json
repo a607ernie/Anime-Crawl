@@ -753,7 +753,7 @@
     },
     "Dr.STONE 新石紀 SCIENCE FUTURE": {
         "ID": 1590,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "冬/夏",
         "subtitle group": "",
         "title": "Dr.STONE 新石紀 SCIENCE FUTURE",
@@ -1705,7 +1705,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -3918,6 +3918,14 @@
         "subtitle group": "",
         "title": "去參加聯誼，卻發現完全沒有女生在場",
         "year": "2024"
+    },
+    "去唱卡拉OK吧！": {
+        "ID": 1724,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "去唱卡拉OK吧！",
+        "year": "2025"
     },
     "反派千金等級99～我是隱藏頭目但不是魔王～": {
         "ID": 1396,
@@ -6435,7 +6443,7 @@
         "ID": 1691,
         "episode": "連載中(15)",
         "season": "夏",
-        "subtitle group": "",
+        "subtitle group": "幻櫻",
         "title": "戀上換裝娃娃 Season 2(第二季)",
         "year": "2025"
     },
@@ -8105,7 +8113,7 @@
     },
     "歌聲是法式千層酥": {
         "ID": 1718,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "歌聲是法式千層酥",
@@ -8161,7 +8169,7 @@
     },
     "歡迎光臨流放者食堂！": {
         "ID": 1681,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "夏",
         "subtitle group": "",
         "title": "歡迎光臨流放者食堂！",
@@ -10577,7 +10585,7 @@
     },
     "膽大黨 第二季": {
         "ID": 1679,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "夏",
         "subtitle group": "",
         "title": "膽大黨 第二季",
@@ -11723,7 +11731,7 @@
         "ID": 1723,
         "episode": "連載中(03)",
         "season": "夏",
-        "subtitle group": "六四位元",
+        "subtitle group": "北宇治",
         "title": "遊樂場少女的異文化交流",
         "year": "2025"
     },
@@ -12289,7 +12297,7 @@
     },
     "雙人單身露營": {
         "ID": 1715,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "雙人單身露營",
