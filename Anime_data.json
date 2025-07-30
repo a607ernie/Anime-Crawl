@@ -201,7 +201,7 @@
     },
     "<a href=\"https://anime1.pw/?cat=52\">做到懷孕為止的婚姻(定孕成婚)</a>": {
         "ID": 0,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "桜都",
         "title": "<a href=\"https://anime1.pw/?cat=52\">做到懷孕為止的婚姻(定孕成婚)</a>",
@@ -2985,7 +2985,7 @@
     },
     "保齡球少女": {
         "ID": 1710,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "夏",
         "subtitle group": "",
         "title": "保齡球少女",
@@ -7071,6 +7071,14 @@
         "title": "探索者！(BLAME!)",
         "year": "2017"
     },
+    "推理要在晚餐後": {
+        "ID": 1725,
+        "episode": "1-12",
+        "season": "春",
+        "subtitle group": "櫻桃花",
+        "title": "推理要在晚餐後",
+        "year": "2025"
+    },
     "搖曳莊的幽奈小姐": {
         "ID": 393,
         "episode": "1-12",
@@ -7729,7 +7737,7 @@
     },
     "最近的偵探真沒用": {
         "ID": 1675,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "最近的偵探真沒用",
@@ -7857,7 +7865,7 @@
     },
     "杜鵑婚約 第二季": {
         "ID": 1707,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "夏",
         "subtitle group": "",
         "title": "杜鵑婚約 第二季",
