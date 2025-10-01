@@ -569,7 +569,7 @@
     },
     "CITY THE ANIMATION": {
         "ID": 1705,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "夏",
         "subtitle group": "桜都",
         "title": "CITY THE ANIMATION",
@@ -8343,6 +8343,14 @@
         "title": "水屬性的魔法師",
         "year": "2025"
     },
+    "永遠的黃昏": {
+        "ID": 1731,
+        "episode": "連載中(00)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "永遠的黃昏",
+        "year": "2025"
+    },
     "江戶前精靈": {
         "ID": 1237,
         "episode": "1-12",
@@ -8497,7 +8505,7 @@
     },
     "渡同學的××瀕臨崩壞": {
         "ID": 1703,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "夏",
         "subtitle group": "",
         "title": "渡同學的××瀕臨崩壞",
@@ -8789,6 +8797,14 @@
         "season": "春",
         "subtitle group": "秋人",
         "title": "無法抑制之情是否喚作愛",
+        "year": "2025"
+    },
+    "無職英雄：技能什麼的毫無用處": {
+        "ID": 1730,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "無職英雄：技能什麼的毫無用處",
         "year": "2025"
     },
     "無職轉生II～到了異世界就拿出真本事～ (第二季)": {
@@ -10110,6 +10126,14 @@
         "subtitle group": "千夏",
         "title": "約會大作戰 劇場版 審判萬由里",
         "year": "2015"
+    },
+    "素材採集家的異世界旅行記": {
+        "ID": 1733,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "素材採集家的異世界旅行記",
+        "year": "2025"
     },
     "索瑪麗與森林之神": {
         "ID": 649,
@@ -11537,7 +11561,7 @@
     },
     "轉生成貓咪的大叔": {
         "ID": 1557,
-        "episode": "連載中(48)",
+        "episode": "1-48",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生成貓咪的大叔",
@@ -11862,6 +11886,14 @@
         "subtitle group": "-",
         "title": "重神機潘多拉",
         "year": "2018"
+    },
+    "野生的大魔王出現了！": {
+        "ID": 1732,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "野生的大魔王出現了！",
+        "year": "2025"
     },
     "野良和皇女和野貓之心": {
         "ID": 191,
@@ -12958,6 +12990,14 @@
         "subtitle group": "",
         "title": "魔法光源股份有限公司",
         "year": "2024"
+    },
+    "魔法公主的小煩惱": {
+        "ID": 1734,
+        "episode": "連載中(03)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "魔法公主的小煩惱",
+        "year": "2025"
     },
     "魔法少女奈葉 Detonation": {
         "ID": 581,
