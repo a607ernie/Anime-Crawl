@@ -569,7 +569,7 @@
     },
     "CITY THE ANIMATION": {
         "ID": 1705,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "夏",
         "subtitle group": "桜都",
         "title": "CITY THE ANIMATION",
@@ -1705,7 +1705,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(24)",
+        "episode": "連載中(24.5)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -7449,7 +7449,7 @@
     },
     "新吊帶襪天使 (New PANTY and STOCKING with GARTERBELT)": {
         "ID": 1719,
-        "episode": "連載中(11)",
+        "episode": "1-13",
         "season": "夏",
         "subtitle group": "喵萌奶茶屋",
         "title": "新吊帶襪天使 (New PANTY and STOCKING with GARTERBELT)",
@@ -7774,6 +7774,14 @@
         "subtitle group": "-",
         "title": "最強陰陽師的異世界轉生記",
         "year": "2023"
+    },
+    "最後可以再拜託您一件事嗎？": {
+        "ID": 1743,
+        "episode": "連載中(02)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "最後可以再拜託您一件事嗎？",
+        "year": "2025"
     },
     "最狂輔助職業【話術士】世界最強戰團聽我號令": {
         "ID": 1522,
@@ -10953,7 +10961,7 @@
     },
     "薰香花朵凜然綻放": {
         "ID": 1721,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "夏",
         "subtitle group": "喵萌奶茶屋",
         "title": "薰香花朵凜然綻放",
