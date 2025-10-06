@@ -1041,7 +1041,7 @@
     },
     "Gachiakuta": {
         "ID": 1700,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "夏",
         "subtitle group": "",
         "title": "Gachiakuta",
@@ -1967,6 +1967,14 @@
         "title": "SHY 靦腆英雄 第二季",
         "year": "2024"
     },
+    "SI-VIS：英雄之聲": {
+        "ID": 1751,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "SI-VIS：英雄之聲",
+        "year": "2025"
+    },
     "SK∞ the Infinity": {
         "ID": 818,
         "episode": "1-12",
@@ -2414,6 +2422,14 @@
         "subtitle group": "幻櫻",
         "title": "一拳超人",
         "year": "2015"
+    },
+    "一拳超人 第三季": {
+        "ID": 1752,
+        "episode": "連載中(00)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "一拳超人 第三季",
+        "year": "2025"
     },
     "一拳超人 第二季": {
         "ID": 510,
@@ -5543,6 +5559,14 @@
         "title": "小市民系列 第二季",
         "year": "2025"
     },
+    "小手指同學，請別亂摸": {
+        "ID": 1754,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "小手指同學，請別亂摸",
+        "year": "2025"
+    },
     "小智是女孩啦！": {
         "ID": 1165,
         "episode": "1-13",
@@ -8190,6 +8214,14 @@
         "subtitle group": "-",
         "title": "機戰少女 Alice Expansion",
         "year": "2023"
+    },
+    "機械女僕·瑪麗": {
+        "ID": 1753,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "機械女僕·瑪麗",
+        "year": "2025"
     },
     "機械臂": {
         "ID": 1532,
@@ -11631,6 +11663,14 @@
         "title": "轉生就是劍",
         "year": "2022"
     },
+    "轉生後的我成了英雄爸爸和精靈媽媽的女兒": {
+        "ID": 1755,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "轉生後的我成了英雄爸爸和精靈媽媽的女兒",
+        "year": "2025"
+    },
     "轉生成女性向遊戲只有毀滅END的壞人大小姐": {
         "ID": 708,
         "episode": "1-12",
@@ -13113,7 +13153,7 @@
     },
     "魔法公主的小煩惱": {
         "ID": 1734,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "魔法公主的小煩惱",
