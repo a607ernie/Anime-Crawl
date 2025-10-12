@@ -1023,6 +1023,14 @@
         "title": "GIVEN 被贈與的未來",
         "year": "2019"
     },
+    "GNOSIA": {
+        "ID": 1769,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "GNOSIA",
+        "year": "2025"
+    },
     "GOOD NIGHT WORLD": {
         "ID": 1411,
         "episode": "1-12",
@@ -1713,7 +1721,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(24.5)",
+        "episode": "連載中(25)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -2009,7 +2017,7 @@
     },
     "SPY×FAMILY間諜家家酒 第三季": {
         "ID": 1745,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "SPY×FAMILY間諜家家酒 第三季",
@@ -2823,6 +2831,14 @@
         "title": "亂馬 1/2",
         "year": "2024"
     },
+    "亂馬 1/2 第二季": {
+        "ID": 1770,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "喵萌奶茶屋",
+        "title": "亂馬 1/2 第二季",
+        "year": "2025"
+    },
     "五等分的新娘": {
         "ID": 486,
         "episode": "1-12",
@@ -3241,7 +3257,7 @@
     },
     "元祖！BanG Dream Chan": {
         "ID": 1739,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "元祖！BanG Dream Chan",
@@ -3977,7 +3993,7 @@
     },
     "去唱卡拉OK吧！": {
         "ID": 1724,
-        "episode": "連載中(05)",
+        "episode": "1-5",
         "season": "夏",
         "subtitle group": "",
         "title": "去唱卡拉OK吧！",
@@ -4369,7 +4385,7 @@
     },
     "嘆氣的亡靈想隱退": {
         "ID": 1521,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "嘆氣的亡靈想隱退",
@@ -5297,7 +5313,7 @@
     },
     "婚戒物語 第二季": {
         "ID": 1746,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "婚戒物語 第二季",
@@ -6329,7 +6345,7 @@
     },
     "怪獸 8 號 第二季": {
         "ID": 1690,
-        "episode": "連載中(23)",
+        "episode": "13-23",
         "season": "夏",
         "subtitle group": "",
         "title": "怪獸 8 號 第二季",
@@ -6889,7 +6905,7 @@
     },
     "我的英雄學院 FINAL SEASON(第八季)": {
         "ID": 1744,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "我的英雄學院 FINAL SEASON(第八季)",
@@ -7953,7 +7969,7 @@
     },
     "朋友的妹妹只纏著我": {
         "ID": 1750,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "朋友的妹妹只纏著我",
@@ -7969,7 +7985,7 @@
     },
     "末世二輪之旅": {
         "ID": 1748,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "末世二輪之旅",
@@ -8081,7 +8097,7 @@
     },
     "東島丹三郎想成為假面騎士": {
         "ID": 1749,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "東島丹三郎想成為假面騎士",
@@ -8297,7 +8313,7 @@
     },
     "歌聲是法式千層酥": {
         "ID": 1718,
-        "episode": "連載中(10)",
+        "episode": "1-10",
         "season": "夏",
         "subtitle group": "",
         "title": "歌聲是法式千層酥",
@@ -8857,7 +8873,7 @@
     },
     "為你著迷": {
         "ID": 1727,
-        "episode": "連載中(05)",
+        "episode": "1-5",
         "season": "夏",
         "subtitle group": "",
         "title": "為你著迷",
@@ -11497,8 +11513,8 @@
     },
     "賽馬娘 灰髮灰姑娘": {
         "ID": 1656,
-        "episode": "1-13",
-        "season": "春",
+        "episode": "連載中(14)",
+        "season": "春/秋",
         "subtitle group": "桜都",
         "title": "賽馬娘 灰髮灰姑娘",
         "year": "2025"
@@ -12145,7 +12161,7 @@
     },
     "野生的大魔王出現了！": {
         "ID": 1732,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "野生的大魔王出現了！",
