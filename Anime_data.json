@@ -2001,7 +2001,7 @@
     },
     "SI-VIS：英雄之聲": {
         "ID": 1751,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "秋",
         "subtitle group": "",
         "title": "SI-VIS：英雄之聲",
@@ -7183,6 +7183,14 @@
         "title": "房間露營△",
         "year": "2020"
     },
+    "打工仔的拷問日常": {
+        "ID": 1789,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "打工仔的拷問日常",
+        "year": "2026"
+    },
     "打工吧！！魔王大人 第二季": {
         "ID": 1095,
         "episode": "1-24",
@@ -9687,6 +9695,14 @@
         "title": "異修羅 第二季",
         "year": "2025"
     },
+    "異國日記": {
+        "ID": 1790,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "異國日記",
+        "year": "2026"
+    },
     "異獸魔都": {
         "ID": 682,
         "episode": "1-12",
@@ -11054,6 +11070,14 @@
         "subtitle group": "幻櫻",
         "title": "艾梅洛閣下II世事件簿 魔眼搜集列車 Grace note",
         "year": "2019"
+    },
+    "花樣少年少女": {
+        "ID": 1787,
+        "episode": "連載中(02)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "花樣少年少女",
+        "year": "2026"
     },
     "花樣滑冰Stars": {
         "ID": 823,
@@ -13630,6 +13654,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "魔術學姐",
         "year": "2019"
+    },
+    "魔術師庫諾看得見一切": {
+        "ID": 1788,
+        "episode": "連載中(02)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "魔術師庫諾看得見一切",
+        "year": "2026"
     },
     "魔裝學園H×H": {
         "ID": 73,
