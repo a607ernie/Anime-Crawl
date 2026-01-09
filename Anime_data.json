@@ -1441,7 +1441,7 @@
     },
     "MF GHOST 燃油車鬥魂 第三季": {
         "ID": 1784,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "冬",
         "subtitle group": "",
         "title": "MF GHOST 燃油車鬥魂 第三季",
@@ -1737,7 +1737,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(36)",
+        "episode": "連載中(36.5)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -2406,6 +2406,14 @@
         "subtitle group": "-",
         "title": "〈Infinite Dendrogram〉-無盡連鎖-",
         "year": "2020"
+    },
+    "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活": {
+        "ID": 1804,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活",
+        "year": "2026"
     },
     "【我推的孩子】": {
         "ID": 1247,
@@ -4055,6 +4063,14 @@
         "title": "即使如此依舊步步進逼",
         "year": "2022"
     },
+    "厄里斯的聖杯": {
+        "ID": 1803,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "厄里斯的聖杯",
+        "year": "2026"
+    },
     "去參加聯誼，卻發現完全沒有女生在場": {
         "ID": 1539,
         "episode": "1-12",
@@ -5601,7 +5617,7 @@
     },
     "寶可夢 地平線 超級電壓": {
         "ID": 1670,
-        "episode": "連載中(121)",
+        "episode": "連載中(122)",
         "season": "春",
         "subtitle group": "楓葉",
         "title": "寶可夢 地平線 超級電壓",
@@ -7001,7 +7017,7 @@
     },
     "我的英雄學院 FINAL SEASON(第八季)": {
         "ID": 1744,
-        "episode": "連載中(11)",
+        "episode": "1-11",
         "season": "秋",
         "subtitle group": "",
         "title": "我的英雄學院 FINAL SEASON(第八季)",
@@ -7561,7 +7577,7 @@
     },
     "數碼寶貝BEATBREAK": {
         "ID": 1776,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "秋",
         "subtitle group": "馴獸師聯盟",
         "title": "數碼寶貝BEATBREAK",
@@ -8809,7 +8825,7 @@
     },
     "渡同學的××瀕臨崩壞": {
         "ID": 1703,
-        "episode": "連載中(25)",
+        "episode": "1-26",
         "season": "夏",
         "subtitle group": "",
         "title": "渡同學的××瀕臨崩壞",
@@ -9081,7 +9097,7 @@
     },
     "無尾熊繪日記": {
         "ID": 1768,
-        "episode": "連載中(14)",
+        "episode": "連載中(15)",
         "season": "秋",
         "subtitle group": "",
         "title": "無尾熊繪日記",
@@ -9577,7 +9593,7 @@
     },
     "異世界四重奏 第三季": {
         "ID": 1778,
-        "episode": "連載中(11)",
+        "episode": "1-11",
         "season": "秋",
         "subtitle group": "",
         "title": "異世界四重奏 第三季",
@@ -10265,7 +10281,7 @@
     },
     "秘密的偶像公主 第二季": {
         "ID": 1646,
-        "episode": "連載中(38)",
+        "episode": "連載中(39)",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "秘密的偶像公主 第二季",
@@ -12135,6 +12151,14 @@
         "title": "逆轉裁判 Season2 (第二季)",
         "year": "2018"
     },
+    "透明男子與人類女孩～兩人遲早會成為夫妻～": {
+        "ID": 1801,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "透明男子與人類女孩～兩人遲早會成為夫妻～",
+        "year": "2026"
+    },
     "這個世界漏洞百出": {
         "ID": 1487,
         "episode": "1-13",
@@ -12169,9 +12193,9 @@
     },
     "這裡是充滿笑容的職場。": {
         "ID": 1758,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "秋",
-        "subtitle group": "",
+        "subtitle group": "晚街與燈",
         "title": "這裡是充滿笑容的職場。",
         "year": "2025"
     },
@@ -12737,7 +12761,7 @@
     },
     "阿爾瑪醬想成為家人": {
         "ID": 1772,
-        "episode": "連載中(11)",
+        "episode": "1-11",
         "season": "秋",
         "subtitle group": "三明治擺爛組",
         "title": "阿爾瑪醬想成為家人",
@@ -13758,6 +13782,14 @@
         "subtitle group": "",
         "title": "魔都精兵的奴隸",
         "year": "2024"
+    },
+    "魔都精兵的奴隸 第二季": {
+        "ID": 1802,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "魔都精兵的奴隸 第二季",
+        "year": "2026"
     },
     "魯邦三世 PART5": {
         "ID": 313,
