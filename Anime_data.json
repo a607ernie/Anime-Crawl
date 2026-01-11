@@ -993,7 +993,7 @@
     },
     "Fate/strange Fake": {
         "ID": 1572,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "Fate/strange Fake",
@@ -1041,7 +1041,7 @@
     },
     "GNOSIA": {
         "ID": 1769,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "秋",
         "subtitle group": "",
         "title": "GNOSIA",
@@ -2158,6 +2158,14 @@
         "subtitle group": "-",
         "title": "TRIGUN STAMPEDE",
         "year": "2023"
+    },
+    "TRIGUN STARGAZE": {
+        "ID": 1814,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "TRIGUN STARGAZE",
+        "year": "2026"
     },
     "TRUMP 系列 Delicoʼs Nursery": {
         "ID": 1514,
@@ -3830,6 +3838,14 @@
         "subtitle group": "-",
         "title": "勇者、辭職不幹了",
         "year": "2022"
+    },
+    "勇者之渣": {
+        "ID": 1812,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "勇者之渣",
+        "year": "2026"
     },
     "勇者死了！": {
         "ID": 1231,
@@ -8257,7 +8273,7 @@
     },
     "東島丹三郎想成為假面騎士": {
         "ID": 1749,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "秋",
         "subtitle group": "",
         "title": "東島丹三郎想成為假面騎士",
@@ -8590,6 +8606,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "歲月流逝飯菜依舊美味",
         "year": "2025"
+    },
+    "死亡帳號": {
+        "ID": 1815,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "死亡帳號",
+        "year": "2026"
     },
     "死神少爺與黑女僕": {
         "ID": 907,
@@ -11999,6 +12023,14 @@
         "title": "輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活",
         "year": "2024"
     },
+    "轉生之後的我變成了龍蛋～目標是世界最強～": {
+        "ID": 1813,
+        "episode": "連載中(01)",
+        "season": "冬",
+        "subtitle group": "",
+        "title": "轉生之後的我變成了龍蛋～目標是世界最強～",
+        "year": "2026"
+    },
     "轉生公主與天才千金的魔法革命": {
         "ID": 1161,
         "episode": "1-12",
@@ -13017,7 +13049,7 @@
     },
     "青之壬生浪 芹澤暗殺篇(第二季)": {
         "ID": 1786,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "冬",
         "subtitle group": "",
         "title": "青之壬生浪 芹澤暗殺篇(第二季)",
