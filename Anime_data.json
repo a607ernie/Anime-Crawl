@@ -239,6 +239,14 @@
         "title": "<a href=\"https://anime1.pw/?cat=58\">草莓哀歌～缺根筋的活潑妹妹與無法釋懷的哥哥～</a>",
         "year": "2026"
     },
+    "<a zhref=\"/?cat=1749\">東島丹三郎想成為假面騎士</a>": {
+        "ID": 0,
+        "episode": "連載中(20)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "<a zhref=\"/?cat=1749\">東島丹三郎想成為假面騎士</a>",
+        "year": "2025"
+    },
     "A.I.C.O.：化身(A.I.C.O. Incarnation)": {
         "ID": 295,
         "episode": "1-12",
@@ -1017,7 +1025,7 @@
     },
     "Fate/strange Fake": {
         "ID": 1572,
-        "episode": "連載中(07)",
+        "episode": "連載中(08)",
         "season": "秋",
         "subtitle group": "",
         "title": "Fate/strange Fake",
@@ -2033,7 +2041,7 @@
     },
     "SI-VIS：英雄之聲": {
         "ID": 1751,
-        "episode": "連載中(19)",
+        "episode": "連載中(20)",
         "season": "秋",
         "subtitle group": "",
         "title": "SI-VIS：英雄之聲",
@@ -2185,7 +2193,7 @@
     },
     "TRIGUN STARGAZE": {
         "ID": 1814,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "TRIGUN STARGAZE",
@@ -3881,7 +3889,7 @@
     },
     "勇者之渣": {
         "ID": 1812,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "勇者之渣",
@@ -8343,14 +8351,6 @@
         "title": "東京復仇者",
         "year": "2021"
     },
-    "東島丹三郎想成為假面騎士": {
-        "ID": 1749,
-        "episode": "連載中(19)",
-        "season": "秋",
-        "subtitle group": "",
-        "title": "東島丹三郎想成為假面騎士",
-        "year": "2025"
-    },
     "果然我的青春戀愛喜劇搞錯了。完 (第三季)": {
         "ID": 728,
         "episode": "1-12",
@@ -8681,7 +8681,7 @@
     },
     "死亡帳號": {
         "ID": 1815,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "死亡帳號",
@@ -12153,7 +12153,7 @@
     },
     "轉生之後的我變成了龍蛋～目標是世界最強～": {
         "ID": 1813,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "轉生之後的我變成了龍蛋～目標是世界最強～",
