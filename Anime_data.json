@@ -239,14 +239,6 @@
         "title": "<a href=\"https://anime1.pw/?cat=58\">草莓哀歌～缺根筋的活潑妹妹與無法釋懷的哥哥～</a>",
         "year": "2026"
     },
-    "<a zhref=\"/?cat=1749\">東島丹三郎想成為假面騎士</a>": {
-        "ID": 0,
-        "episode": "連載中(20)",
-        "season": "秋",
-        "subtitle group": "",
-        "title": "<a zhref=\"/?cat=1749\">東島丹三郎想成為假面騎士</a>",
-        "year": "2025"
-    },
     "A.I.C.O.：化身(A.I.C.O. Incarnation)": {
         "ID": 295,
         "episode": "1-12",
@@ -5097,7 +5089,7 @@
     },
     "大江戶烈火殺手 – 鳳凰傳說": {
         "ID": 1818,
-        "episode": "連載中(05)",
+        "episode": "連載中(06)",
         "season": "冬",
         "subtitle group": "",
         "title": "大江戶烈火殺手 – 鳳凰傳說",
@@ -5745,7 +5737,7 @@
     },
     "寶可夢 地平線 超級電壓": {
         "ID": 1670,
-        "episode": "連載中(123)",
+        "episode": "連載中(125)",
         "season": "春",
         "subtitle group": "楓葉",
         "title": "寶可夢 地平線 超級電壓",
@@ -7353,7 +7345,7 @@
     },
     "打工仔的拷問日常": {
         "ID": 1789,
-        "episode": "連載中(07)",
+        "episode": "連載中(08)",
         "season": "冬",
         "subtitle group": "",
         "title": "打工仔的拷問日常",
@@ -7705,7 +7697,7 @@
     },
     "數碼寶貝BEATBREAK": {
         "ID": 1776,
-        "episode": "連載中(18)",
+        "episode": "連載中(20)",
         "season": "秋",
         "subtitle group": "馴獸師聯盟",
         "title": "數碼寶貝BEATBREAK",
@@ -8350,6 +8342,14 @@
         "subtitle group": "-",
         "title": "東京復仇者",
         "year": "2021"
+    },
+    "東島丹三郎想成為假面騎士": {
+        "ID": 1749,
+        "episode": "連載中(20)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "東島丹三郎想成為假面騎士",
+        "year": "2025"
     },
     "果然我的青春戀愛喜劇搞錯了。完 (第三季)": {
         "ID": 728,
@@ -9889,7 +9889,7 @@
     },
     "異國日記": {
         "ID": 1790,
-        "episode": "連載中(07)",
+        "episode": "連載中(08)",
         "season": "冬",
         "subtitle group": "",
         "title": "異國日記",
@@ -10033,7 +10033,7 @@
     },
     "相反的你和我": {
         "ID": 1817,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "相反的你和我",
@@ -10281,7 +10281,7 @@
     },
     "神八小妹不可怕": {
         "ID": 1816,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "",
         "title": "神八小妹不可怕",
@@ -11297,7 +11297,7 @@
     },
     "花樣少年少女": {
         "ID": 1787,
-        "episode": "連載中(08)",
+        "episode": "連載中(09)",
         "season": "冬",
         "subtitle group": "",
         "title": "花樣少年少女",
@@ -11641,7 +11641,7 @@
     },
     "被鄰國王太子溺愛的反派千金": {
         "ID": 1830,
-        "episode": "連載中(06)",
+        "episode": "連載中(07)",
         "season": "冬",
         "subtitle group": "六四位元",
         "title": "被鄰國王太子溺愛的反派千金",
@@ -14017,7 +14017,7 @@
     },
     "魔術師庫諾看得見一切": {
         "ID": 1788,
-        "episode": "連載中(08)",
+        "episode": "連載中(09)",
         "season": "冬",
         "subtitle group": "",
         "title": "魔術師庫諾看得見一切",
