@@ -793,11 +793,11 @@
     },
     "Dr.STONE 新石紀 SCIENCE FUTURE": {
         "ID": 1590,
-        "episode": "1-24",
-        "season": "冬/夏",
+        "episode": "連載中(25)",
+        "season": "2025冬/2025夏/2026春",
         "subtitle group": "",
         "title": "Dr.STONE 新石紀 SCIENCE FUTURE",
-        "year": "2025"
+        "year": "2025/2026"
     },
     "Dr.STONE 新石紀 STONE WARS(第二季)": {
         "ID": 835,
@@ -3071,6 +3071,14 @@
         "title": "佐賀偶像是傳奇(ZombieLand SAGA)",
         "year": "2018"
     },
+    "你又被殺了呢，偵探大人": {
+        "ID": 1846,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "你又被殺了呢，偵探大人",
+        "year": "2026"
+    },
     "你與我最後的戰場，亦或是世界起始的聖戰": {
         "ID": 789,
         "episode": "1-12",
@@ -3863,6 +3871,14 @@
         "title": "加油吧同期醬",
         "year": "2021"
     },
+    "加油！中村同學！！": {
+        "ID": 1843,
+        "episode": "連載中(02)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "加油！中村同學！！",
+        "year": "2026"
+    },
     "勇氣爆發 Bang Bravern": {
         "ID": 1402,
         "episode": "1-12",
@@ -4334,6 +4350,14 @@
         "subtitle group": "",
         "title": "名湯「異世界溫泉」開拓記～30多歲溫泉狂熱者，轉生到悠閒的溫泉天國～",
         "year": "2024"
+    },
+    "吞噬魔物的冒險者": {
+        "ID": 1847,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "吞噬魔物的冒險者",
+        "year": "2026"
     },
     "吸吸吸吸吸血鬼": {
         "ID": 1619,
@@ -9265,7 +9289,7 @@
     },
     "無尾熊繪日記": {
         "ID": 1768,
-        "episode": "連載中(24)",
+        "episode": "連載中(27)",
         "season": "秋",
         "subtitle group": "",
         "title": "無尾熊繪日記",
@@ -12191,6 +12215,14 @@
         "title": "輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活",
         "year": "2024"
     },
+    "輪迴的花瓣": {
+        "ID": 1845,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "輪迴的花瓣",
+        "year": "2026"
+    },
     "轉生之後的我變成了龍蛋～目標是世界最強～": {
         "ID": 1813,
         "episode": "1-12",
@@ -13230,6 +13262,14 @@
         "subtitle group": "-",
         "title": "電馭叛客：邊緣行者",
         "year": "2022"
+    },
+    "霧尾粉絲後援會": {
+        "ID": 1844,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "霧尾粉絲後援會",
+        "year": "2026"
     },
     "青之壬生浪": {
         "ID": 1566,
