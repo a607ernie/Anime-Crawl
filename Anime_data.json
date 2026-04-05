@@ -1769,7 +1769,7 @@
     },
     "Princession Orchestra": {
         "ID": 1663,
-        "episode": "連載中(47)",
+        "episode": "1-48",
         "season": "春",
         "subtitle group": "雪飄",
         "title": "Princession Orchestra",
@@ -2903,6 +2903,14 @@
         "title": "中間管理錄利根川",
         "year": "2018"
     },
+    "主播女孩重度依賴": {
+        "ID": 1857,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "主播女孩重度依賴",
+        "year": "2026"
+    },
     "久保同學不放過我": {
         "ID": 1199,
         "episode": "1-12",
@@ -3369,7 +3377,7 @@
     },
     "元祖！BanG Dream Chan": {
         "ID": 1739,
-        "episode": "連載中(25)",
+        "episode": "連載中(26)",
         "season": "秋",
         "subtitle group": "",
         "title": "元祖！BanG Dream Chan",
@@ -3398,6 +3406,14 @@
         "subtitle group": "桜都",
         "title": "入間同學入魔了！ 第二季",
         "year": "2021"
+    },
+    "入間同學入魔了！ 第四季": {
+        "ID": 1851,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "入間同學入魔了！ 第四季",
+        "year": "2026"
     },
     "全修。": {
         "ID": 1604,
@@ -5143,6 +5159,14 @@
         "title": "大貴族",
         "year": "2020"
     },
+    "大賢者里德爾的時間逆行": {
+        "ID": 1852,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "大賢者里德爾的時間逆行",
+        "year": "2026"
+    },
     "大運動會 ReSTART!": {
         "ID": 886,
         "episode": "1-12",
@@ -5702,6 +5726,14 @@
         "subtitle group": "",
         "title": "家裡蹲吸血姬的鬱悶",
         "year": "2023"
+    },
+    "容易對付的惡魔大人": {
+        "ID": 1856,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "容易對付的惡魔大人",
+        "year": "2026"
     },
     "宿命迴響：命運節拍": {
         "ID": 947,
@@ -7407,6 +7439,14 @@
         "title": "扶桑花之舞",
         "year": "2021"
     },
+    "拉拉熊": {
+        "ID": 1853,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "拉拉熊",
+        "year": "2026"
+    },
     "拉麵赤貓": {
         "ID": 1483,
         "episode": "1-12",
@@ -7977,7 +8017,7 @@
     },
     "春夏秋冬代行者 春之舞": {
         "ID": 1838,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "春",
         "subtitle group": "",
         "title": "春夏秋冬代行者 春之舞",
@@ -8319,6 +8359,14 @@
         "title": "本田小狼與我",
         "year": "2021"
     },
+    "朱音落語": {
+        "ID": 1855,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "朱音落語",
+        "year": "2026"
+    },
     "杖與劍的魔劍譚": {
         "ID": 1498,
         "episode": "1-12",
@@ -8494,6 +8542,14 @@
         "subtitle group": "Dymy",
         "title": "棒球大聯盟2nd",
         "year": "2018"
+    },
+    "楠木邸的神明庭院": {
+        "ID": 1854,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "楠木邸的神明庭院",
+        "year": "2026"
     },
     "極速星舞": {
         "ID": 1437,
@@ -12569,7 +12625,7 @@
     },
     "達爾文事變": {
         "ID": 1824,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "冬",
         "subtitle group": "",
         "title": "達爾文事變",
@@ -14214,6 +14270,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "黃昏旅店",
         "year": "2025"
+    },
+    "黃泉使者": {
+        "ID": 1858,
+        "episode": "連載中(01)",
+        "season": "春",
+        "subtitle group": "",
+        "title": "黃泉使者",
+        "year": "2026"
     },
     "黃金拼圖 Thank you!!": {
         "ID": 1052,
