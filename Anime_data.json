@@ -4081,9 +4081,9 @@
     },
     "北斗之拳 -FIST OF THE NORTH STAR-": {
         "ID": 1900,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
-        "subtitle group": "",
+        "subtitle group": "-",
         "title": "北斗之拳 -FIST OF THE NORTH STAR-",
         "year": "2026"
     },
@@ -8113,7 +8113,7 @@
     },
     "日本三國": {
         "ID": 1903,
-        "episode": "連載中(10)",
+        "episode": "連載中(11)",
         "season": "春",
         "subtitle group": "",
         "title": "日本三國",
@@ -13617,7 +13617,7 @@
     },
     "雞鬥士": {
         "ID": 1894,
-        "episode": "連載中(10)",
+        "episode": "連載中(11)",
         "season": "春",
         "subtitle group": "綠茶",
         "title": "雞鬥士",
