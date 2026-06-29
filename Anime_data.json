@@ -4081,7 +4081,7 @@
     },
     "北斗之拳 -FIST OF THE NORTH STAR-": {
         "ID": 1900,
-        "episode": "連載中(13)",
+        "episode": "1-14",
         "season": "春",
         "subtitle group": "-",
         "title": "北斗之拳 -FIST OF THE NORTH STAR-",
@@ -5169,7 +5169,7 @@
     },
     "夜櫻家大作戰 第二季": {
         "ID": 1891,
-        "episode": "連載中(38)",
+        "episode": "28-39",
         "season": "春",
         "subtitle group": "",
         "title": "夜櫻家大作戰 第二季",
@@ -8601,7 +8601,7 @@
     },
     "杖與劍的魔劍譚 第二季": {
         "ID": 1860,
-        "episode": "連載中(23)",
+        "episode": "13-24+12.5",
         "season": "春",
         "subtitle group": "",
         "title": "杖與劍的魔劍譚 第二季",
@@ -11649,7 +11649,7 @@
     },
     "自稱惡役千金的未婚妻觀察紀錄。": {
         "ID": 1895,
-        "episode": "連載中(11)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "六四位元",
         "title": "自稱惡役千金的未婚妻觀察紀錄。",
@@ -12310,6 +12310,14 @@
         "subtitle group": "千夏",
         "title": "貓娘樂園(NEKOPARA)",
         "year": "2020"
+    },
+    "貓與龍": {
+        "ID": 1906,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "貓與龍",
+        "year": "2026"
     },
     "貫徹輔助魔法支援弱小隊友的宮廷魔法師，慘遭驅逐後目標成為最強冒險者": {
         "ID": 1747,
@@ -13273,7 +13281,7 @@
     },
     "鑽石王牌 act2 -SECOND SEASON-(第二季)": {
         "ID": 1859,
-        "episode": "連載中(12)",
+        "episode": "1-13",
         "season": "春",
         "subtitle group": "",
         "title": "鑽石王牌 act2 -SECOND SEASON-(第二季)",
@@ -14753,7 +14761,7 @@
     },
     "黑貓與魔女的教室": {
         "ID": 1889,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "春",
         "subtitle group": "",
         "title": "黑貓與魔女的教室",
