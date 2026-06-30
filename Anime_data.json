@@ -241,7 +241,7 @@
     },
     "<a href=\"https://anime1.pw/?cat=60\">這樣高大的女孩子你喜歡嗎？</a>": {
         "ID": 0,
-        "episode": "連載中(09)",
+        "episode": "1-12",
         "season": "春",
         "subtitle group": "桜都",
         "title": "<a href=\"https://anime1.pw/?cat=60\">這樣高大的女孩子你喜歡嗎？</a>",
@@ -2214,6 +2214,14 @@
         "subtitle group": "漫游",
         "title": "THE REFLECTION WAVE ONE",
         "year": "2017"
+    },
+    "THE WORLD IS DANCING 世界在起舞": {
+        "ID": 1907,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "THE WORLD IS DANCING 世界在起舞",
+        "year": "2026"
     },
     "TRIBE NINE": {
         "ID": 994,
