@@ -601,7 +601,7 @@
     },
     "CANDY CARIES 蛀在糖糖裡": {
         "ID": 1899,
-        "episode": "連載中(11)",
+        "episode": "連載中(12)",
         "season": "春",
         "subtitle group": "",
         "title": "CANDY CARIES 蛀在糖糖裡",
@@ -5953,7 +5953,7 @@
     },
     "寶可夢 地平線 超級電壓": {
         "ID": 1670,
-        "episode": "連載中(133)",
+        "episode": "連載中(136)",
         "season": "春",
         "subtitle group": "楓葉",
         "title": "寶可夢 地平線 超級電壓",
@@ -6681,7 +6681,7 @@
     },
     "從前從前有隻貓！世界喵童話": {
         "ID": 1773,
-        "episode": "連載中(37)",
+        "episode": "連載中(38)",
         "season": "秋",
         "subtitle group": "",
         "title": "從前從前有隻貓！世界喵童話",
@@ -11757,6 +11757,14 @@
         "season": "冬",
         "subtitle group": "",
         "title": "花樣少年少女",
+        "year": "2026"
+    },
+    "花樣少年少女 第二季": {
+        "ID": 1908,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "花樣少年少女 第二季",
         "year": "2026"
     },
     "花樣滑冰Stars": {
