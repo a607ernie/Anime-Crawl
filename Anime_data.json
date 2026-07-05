@@ -415,6 +415,14 @@
         "title": "BEM",
         "year": "2019"
     },
+    "BLACK TORCH 闇黑燈火": {
+        "ID": 1920,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "BLACK TORCH 闇黑燈火",
+        "year": "2026"
+    },
     "BLACKFOX 黑狐": {
         "ID": 615,
         "episode": "劇場版",
@@ -1142,6 +1150,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "Girls Band Cry",
         "year": "2024"
+    },
+    "Grow Up Show ～向日葵馬戲團～": {
+        "ID": 1926,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "Grow Up Show ～向日葵馬戲團～",
+        "year": "2026"
     },
     "HELLO WORLD": {
         "ID": 757,
@@ -3497,7 +3513,7 @@
     },
     "入間同學入魔了！ 第四季": {
         "ID": 1851,
-        "episode": "連載中(13)",
+        "episode": "連載中(14)",
         "season": "春",
         "subtitle group": "桜都",
         "title": "入間同學入魔了！ 第四季",
@@ -6278,6 +6294,14 @@
         "subtitle group": "",
         "title": "屍體如山的死亡遊戲",
         "year": "2023"
+    },
+    "岩元前輩的推薦": {
+        "ID": 1922,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "岩元前輩的推薦",
+        "year": "2026"
     },
     "川柳少女": {
         "ID": 514,
@@ -9735,6 +9759,14 @@
         "title": "無職英雄：技能什麼的毫無用處",
         "year": "2025"
     },
+    "無職轉生III～到了異世界就拿出真本事～ (第三季)": {
+        "ID": 1921,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "無職轉生III～到了異世界就拿出真本事～ (第三季)",
+        "year": "2026"
+    },
     "無職轉生II～到了異世界就拿出真本事～ (第二季)": {
         "ID": 1270,
         "episode": "0-24",
@@ -10777,7 +10809,7 @@
     },
     "神之雫": {
         "ID": 1883,
-        "episode": "連載中(13)",
+        "episode": "1-13",
         "season": "春",
         "subtitle group": "",
         "title": "神之雫",
@@ -10958,6 +10990,14 @@
         "subtitle group": "雪飄",
         "title": "秘密的美妙公主",
         "year": "2024"
+    },
+    "穹廬下的魔女": {
+        "ID": 1924,
+        "episode": "連載中(02)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "穹廬下的魔女",
+        "year": "2026"
     },
     "空挺 Dragons": {
         "ID": 684,
@@ -11760,7 +11800,7 @@
         "year": "2017"
     },
     "與妳相戀到生命盡頭": {
-        "ID": 1904,
+        "ID": 1905,
         "episode": "連載中(01)",
         "season": "夏",
         "subtitle group": "",
@@ -12409,7 +12449,7 @@
     },
     "貓與龍": {
         "ID": 1906,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "貓與龍",
@@ -14191,6 +14231,14 @@
         "title": "骸骨騎士大人異世界冒險中",
         "year": "2022"
     },
+    "骸骨騎士大人異世界冒險中 第二季": {
+        "ID": 1923,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "骸骨騎士大人異世界冒險中 第二季",
+        "year": "2026"
+    },
     "體操武士": {
         "ID": 795,
         "episode": "1-11",
@@ -14335,6 +14383,14 @@
         "title": "鬼燈的冷徹 第二季",
         "year": "2017/2018"
     },
+    "鬼的新娘": {
+        "ID": 1927,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "鬼的新娘",
+        "year": "2026"
+    },
     "魔女之旅": {
         "ID": 758,
         "episode": "1-12",
@@ -14422,6 +14478,14 @@
         "subtitle group": "喵萌奶茶屋&千夏",
         "title": "魔法少女奈葉 Detonation",
         "year": "2018"
+    },
+    "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance": {
+        "ID": 1925,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "",
+        "title": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance",
+        "year": "2026"
     },
     "魔法少女毀滅者": {
         "ID": 1258,
@@ -14753,7 +14817,7 @@
     },
     "黃泉使者": {
         "ID": 1858,
-        "episode": "連載中(12)",
+        "episode": "連載中(13)",
         "season": "春",
         "subtitle group": "",
         "title": "黃泉使者",
