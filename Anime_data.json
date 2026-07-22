@@ -1353,7 +1353,7 @@
     },
     "LIAR GAME 詐欺遊戲": {
         "ID": 1898,
-        "episode": "連載中(15)",
+        "episode": "連載中(16)",
         "season": "春",
         "subtitle group": "喵萌奶茶屋",
         "title": "LIAR GAME 詐欺遊戲",
@@ -1398,6 +1398,14 @@
         "subtitle group": "幻之",
         "title": "LOVE 米 -WE LOVE RICE- 第二季",
         "year": "2017"
+    },
+    "LV999的村民": {
+        "ID": 1954,
+        "episode": "連載中(04)",
+        "season": "夏",
+        "subtitle group": "三明治擺爛組",
+        "title": "LV999的村民",
+        "year": "2026"
     },
     "Lapis Re:LiGHTs": {
         "ID": 732,
@@ -5553,7 +5561,7 @@
     },
     "奇招百出的維多利亞": {
         "ID": 1939,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "奇招百出的維多利亞",
@@ -7185,7 +7193,7 @@
     },
     "感謝對戰。～大小姐才不玩格鬥遊戲～": {
         "ID": 1940,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "感謝對戰。～大小姐才不玩格鬥遊戲～",
@@ -7865,7 +7873,7 @@
     },
     "拯救替身千金的是冷酷無情冰之王子的愛": {
         "ID": 1938,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "拯救替身千金的是冷酷無情冰之王子的愛",
@@ -8126,6 +8134,14 @@
         "subtitle group": "動漫國",
         "title": "攀岩少女！",
         "year": "2020"
+    },
+    "攻殼機動隊 THE GHOST IN THE SHELL": {
+        "ID": 1955,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "撥雪尋春",
+        "title": "攻殼機動隊 THE GHOST IN THE SHELL",
+        "year": "2026"
     },
     "放學後堤防日誌": {
         "ID": 718,
@@ -11969,7 +11985,7 @@
     },
     "與妳相戀到生命盡頭": {
         "ID": 1905,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "",
         "title": "與妳相戀到生命盡頭",
@@ -12187,7 +12203,7 @@
         "ID": 1952,
         "episode": "連載中(04)",
         "season": "夏",
-        "subtitle group": "",
+        "subtitle group": "三明治擺爛組",
         "title": "落第賢者的學院無雙～第二次轉生的 S 級開外掛魔術師冒險錄～",
         "year": "2026"
     },
@@ -12726,6 +12742,14 @@
         "subtitle group": "桜都",
         "title": "賽馬娘Pretty Derby Season 3(第三季)",
         "year": "2023"
+    },
+    "赤河戀影": {
+        "ID": 1953,
+        "episode": "連載中(01)",
+        "season": "夏",
+        "subtitle group": "黑白",
+        "title": "赤河戀影",
+        "year": "2026"
     },
     "超・少年偵探團NEO": {
         "ID": 7,
