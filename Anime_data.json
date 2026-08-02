@@ -425,7 +425,7 @@
     },
     "BLACK TORCH 闇黑燈火": {
         "ID": 1920,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "BLACK TORCH 闇黑燈火",
@@ -457,7 +457,7 @@
     },
     "BLEACH 死神 千年血戰篇-禍進譚-": {
         "ID": 1958,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "夏",
         "subtitle group": "",
         "title": "BLEACH 死神 千年血戰篇-禍進譚-",
@@ -1185,7 +1185,7 @@
     },
     "Grow Up Show ～向日葵馬戲團～": {
         "ID": 1926,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "Grow Up Show ～向日葵馬戲團～",
@@ -3585,7 +3585,7 @@
     },
     "入間同學入魔了！ 第四季": {
         "ID": 1851,
-        "episode": "連載中(17)",
+        "episode": "連載中(18)",
         "season": "春",
         "subtitle group": "桜都",
         "title": "入間同學入魔了！ 第四季",
@@ -6209,7 +6209,7 @@
     },
     "小書痴的下剋上：為了成為圖書管理員不擇手段！ 領主的養女(第四季)": {
         "ID": 1887,
-        "episode": "連載中(15)",
+        "episode": "連載中(16)",
         "season": "春",
         "subtitle group": "SweetSub",
         "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！ 領主的養女(第四季)",
@@ -6401,7 +6401,7 @@
     },
     "岩元前輩的推薦": {
         "ID": 1922,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "岩元前輩的推薦",
@@ -7841,7 +7841,7 @@
     },
     "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐": {
         "ID": 1928,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐",
@@ -7873,7 +7873,7 @@
     },
     "拉拉熊": {
         "ID": 1853,
-        "episode": "連載中(17)",
+        "episode": "連載中(18)",
         "season": "春",
         "subtitle group": "",
         "title": "拉拉熊",
@@ -8161,7 +8161,7 @@
     },
     "攻殼機動隊 THE GHOST IN THE SHELL": {
         "ID": 1955,
-        "episode": "連載中(01)",
+        "episode": "連載中(03)",
         "season": "夏",
         "subtitle group": "撥雪尋春",
         "title": "攻殼機動隊 THE GHOST IN THE SHELL",
@@ -8670,6 +8670,14 @@
         "subtitle group": "喵萌奶茶屋",
         "title": "最弱魔物使開始了撿垃圾之旅。",
         "year": "2024"
+    },
+    "最強廢渣皇子暗中活躍於帝位之爭": {
+        "ID": 1960,
+        "episode": "連載中(04)",
+        "season": "夏",
+        "subtitle group": "撥雪尋春",
+        "title": "最強廢渣皇子暗中活躍於帝位之爭",
+        "year": "2026"
     },
     "最強的職業不是勇者也不是賢者好像是鑑定師（暫定）的樣子": {
         "ID": 1893,
@@ -11201,7 +11209,7 @@
     },
     "穹廬下的魔女": {
         "ID": 1924,
-        "episode": "連載中(05)",
+        "episode": "連載中(06)",
         "season": "夏",
         "subtitle group": "",
         "title": "穹廬下的魔女",
@@ -12121,7 +12129,7 @@
     },
     "花織即使是轉生也想打架": {
         "ID": 1947,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "夏",
         "subtitle group": "",
         "title": "花織即使是轉生也想打架",
@@ -12681,7 +12689,7 @@
     },
     "貓與龍": {
         "ID": 1906,
-        "episode": "連載中(05)",
+        "episode": "連載中(06)",
         "season": "夏",
         "subtitle group": "",
         "title": "貓與龍",
@@ -14649,7 +14657,7 @@
     },
     "鬼的新娘": {
         "ID": 1927,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "鬼的新娘",
@@ -14745,7 +14753,7 @@
     },
     "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance": {
         "ID": 1925,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "夏",
         "subtitle group": "",
         "title": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance",
@@ -15081,7 +15089,7 @@
     },
     "黃泉使者": {
         "ID": 1858,
-        "episode": "連載中(16)",
+        "episode": "連載中(17)",
         "season": "春",
         "subtitle group": "",
         "title": "黃泉使者",
