@@ -112,6 +112,19 @@ def read_json():
     return text_str,anime_urls,titles
 
 
+def update_sn_list(sn_list, anime_data):
+    """Merge fetched anime data while preserving download settings."""
+    for title, data in anime_data.to_dict().items():
+        fetched_data = data.copy()
+        existing_data = sn_list.get(title, {})
+
+        fetched_data['Downloads'] = existing_data.get('Downloads', 'N')
+        fetched_data['isDownloads'] = existing_data.get('isDownloads', 'NaN')
+        sn_list[title] = fetched_data
+
+    return sn_list
+
+
 
 if __name__ == '__main__':     
     # define global
@@ -139,15 +152,8 @@ if __name__ == '__main__':
     writeJson(original_AniData,'Anime_data.json')
 
 
-    # process the data with the sn_list.json
-    for df_title in df_AniData.to_dict():
-        # df_title is find in website
-        # check the repeat title in sn_list
-        try:
-            temp = text_str[df_title]
-        except:
-            print(df_title)
-            text_str[df_title] = df_AniData.to_dict()[df_title]
+    # merge fetched data into sn_list.json and preserve download settings
+    text_str = update_sn_list(text_str, df_AniData)
 
     # write sn_list.json 
     writeJson(text_str,'sn_list.json')
