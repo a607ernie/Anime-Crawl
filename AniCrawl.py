@@ -115,14 +115,22 @@ def read_json():
 
 if __name__ == '__main__':     
     # define global
-    url = 'https://d1zquzjgwo9yb.cloudfront.net/'
+    url = 'https://anime1.me/animelist.json'
     
     # read sn_list to get the anime url and title.
     text_str , anime_urls , titles= read_json()
 
     # get anime data
-    r = requests.get(url, headers = headers)
-    res_text = json.loads(r.text)
+    try:
+        r = requests.get(url, headers=headers, timeout=20)
+        r.raise_for_status()
+        res_text = r.json()
+    except requests.exceptions.RequestException as error:
+        print(f"Unable to fetch anime list from {url}: {error}")
+        sys.exit(1)
+    except ValueError as error:
+        print(f"Anime list is not valid JSON: {error}")
+        sys.exit(1)
 
     # parse
     original_AniData,df_AniData = parseData()
