@@ -27,12 +27,11 @@ jobs:
     - name: Run python file
       run:  python3 AniCrawl.py
     - name: Commit change
-      continue-on-error: true
       run: |
         git config --global user.email ${{ secrets.CI_COMMIT_EMAIL }}
         git config --global user.name "a607ernie"
         git add .
-        git commit -m "Log: Update anime information"
+        git diff --cached --quiet || git commit -m "Log: Update anime information"
     - name: Push change
       if: success()
       uses: ad-m/github-push-action@master
