@@ -609,7 +609,7 @@
     },
     "Battle Spirits [Re] 絕界之空": {
         "ID": 1990,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "Battle Spirits [Re] 絕界之空",
@@ -3129,7 +3129,7 @@
     },
     "亂世千金倪亞·利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄": {
         "ID": 1991,
-        "episode": "連載中(01)",
+        "episode": "連載中(02)",
         "season": "秋",
         "subtitle group": "",
         "title": "亂世千金倪亞·利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄",
@@ -14102,6 +14102,14 @@
         "subtitle group": "喵魯",
         "title": "闇影詩章 烈焰",
         "year": "2022"
+    },
+    "闇機 DARK MACHINE": {
+        "ID": 2009,
+        "episode": "連載中(01)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "闇機 DARK MACHINE",
+        "year": "2026"
     },
     "關於我在無意間被隔壁的天使變成廢柴這件事": {
         "ID": 1178,
