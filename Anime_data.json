@@ -3017,7 +3017,7 @@
     },
     "世界最強的魔女，就此開始": {
         "ID": 1997,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "世界最強的魔女，就此開始",
@@ -3289,7 +3289,7 @@
     },
     "佐佐木與文鳥小嗶 第二季": {
         "ID": 1996,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "佐佐木與文鳥小嗶 第二季",
@@ -3433,7 +3433,7 @@
     },
     "偵探已經，死了。 第二季": {
         "ID": 1995,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "偵探已經，死了。 第二季",
@@ -3809,10 +3809,18 @@
     },
     "冰之城牆": {
         "ID": 1897,
-        "episode": "連載中(16)",
+        "episode": "1-14",
         "season": "春",
         "subtitle group": "桜都",
         "title": "冰之城牆",
+        "year": "2026"
+    },
+    "冰之城牆 第二季": {
+        "ID": 2011,
+        "episode": "連載中(17)",
+        "season": "秋",
+        "subtitle group": "桜都",
+        "title": "冰之城牆 第二季",
         "year": "2026"
     },
     "冰劍的魔術師將要統一世界": {
@@ -13313,7 +13321,7 @@
     },
     "轉生就是劍 第二季": {
         "ID": 1968,
-        "episode": "連載中(03)",
+        "episode": "連載中(04)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生就是劍 第二季",
@@ -15099,7 +15107,7 @@
         "ID": 1861,
         "episode": "連載中(15)",
         "season": "春/秋",
-        "subtitle group": "",
+        "subtitle group": "Billion Meta Lab",
         "title": "魔法姊妹露露特莉莉",
         "year": "2026"
     },
@@ -15249,7 +15257,7 @@
     },
     "魔法騎士雷阿斯": {
         "ID": 1998,
-        "episode": "連載中(02)",
+        "episode": "連載中(03)",
         "season": "秋",
         "subtitle group": "",
         "title": "魔法騎士雷阿斯",
