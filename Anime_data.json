@@ -1,4 +1,12 @@
 {
+    "#尋找殭屍中": {
+        "ID": 2015,
+        "episode": "連載中(04)",
+        "season": "秋",
+        "subtitle group": "綠茶",
+        "title": "#尋找殭屍中",
+        "year": "2026"
+    },
     "16bit 的感動 ANOTHER LAYER": {
         "ID": 1331,
         "episode": "1-13",
@@ -457,7 +465,7 @@
     },
     "BLEACH 死神 千年血戰篇-禍進譚-": {
         "ID": 1958,
-        "episode": "連載中(10)",
+        "episode": "1-10",
         "season": "夏",
         "subtitle group": "豌豆&風之聖殿",
         "title": "BLEACH 死神 千年血戰篇-禍進譚-",
@@ -3329,7 +3337,7 @@
     },
     "你好，身為魔女的我，被心上人委託製作迷情藥": {
         "ID": 1988,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "你好，身為魔女的我，被心上人委託製作迷情藥",
@@ -13321,7 +13329,7 @@
     },
     "轉生哥布林有問題嗎？": {
         "ID": 1986,
-        "episode": "連載中(05)",
+        "episode": "連載中(06)",
         "season": "秋",
         "subtitle group": "",
         "title": "轉生哥布林有問題嗎？",
@@ -13806,6 +13814,14 @@
         "subtitle group": "",
         "title": "野生的大魔王出現了！",
         "year": "2025"
+    },
+    "野生的大魔王出現了！ 第二季": {
+        "ID": 2013,
+        "episode": "連載中(18)",
+        "season": "秋",
+        "subtitle group": "",
+        "title": "野生的大魔王出現了！ 第二季",
+        "year": "2026"
     },
     "野良和皇女和野貓之心": {
         "ID": 191,
@@ -14497,7 +14513,7 @@
     },
     "青之蘆葦 第二季": {
         "ID": 1987,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "青之蘆葦 第二季",
@@ -15177,7 +15193,7 @@
     },
     "魔法少女育成計畫 restart": {
         "ID": 1989,
-        "episode": "連載中(04)",
+        "episode": "連載中(05)",
         "season": "秋",
         "subtitle group": "",
         "title": "魔法少女育成計畫 restart",
