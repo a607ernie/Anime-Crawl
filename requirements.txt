@@ -2,3 +2,4 @@ requests
 bs4
 pandas
 lxml
+alive-progress==1.6.2

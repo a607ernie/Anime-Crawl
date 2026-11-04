@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests, os, re, time, json, sys,json
-import datetime
+import datetime, html
 import pandas as pd
 
 
@@ -21,6 +21,8 @@ def parseData():
     titles = []
     original_AniData = {}
     for item in res_text:
+        # the source json is html-escaped (e.g. &amp;), so unescape it
+        item = [html.unescape(x) if isinstance(x, str) else x for x in item]
         title = item[1]
         titles.append(title)
         
@@ -132,6 +134,10 @@ if __name__ == '__main__':
     
     # read sn_list to get the anime url and title.
     text_str , anime_urls , titles= read_json()
+
+    # unescape titles saved by earlier runs (e.g. "&amp;" -> "&")
+    text_str = {html.unescape(k): {f: html.unescape(v) if isinstance(v, str) else v for f, v in d.items()}
+                for k, d in text_str.items()}
 
     # get anime data
     try:
